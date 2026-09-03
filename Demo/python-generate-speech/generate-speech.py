@@ -37,7 +37,7 @@ def main():
         with client.audio.speech.with_streaming_response.create(
                     model=model_deployment,
                     voice="alloy",
-                    input="Hi. Welcome to AI-901 crash course by O'Reilly Media!",
+                    input="Hi. Welcome to AI-901 crash course by O'Reilly Media on September 3rd 2026!",
                     instructions="Speak in a serious tone.",
                 ) as response:
             response.stream_to_file(speech_file_path)

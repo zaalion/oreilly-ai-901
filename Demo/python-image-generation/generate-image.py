@@ -15,7 +15,7 @@ client = OpenAI(
 
 img = client.images.generate(
     model=deployment_name,
-    prompt="A cute baby polar bear",
+    prompt="A cute baby cat",
     n=1,
     size="1024x1024",
 )

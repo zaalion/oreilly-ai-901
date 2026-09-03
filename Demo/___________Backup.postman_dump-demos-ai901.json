@@ -1,0 +1,467 @@
+{
+  "info": {
+    "_postman_id": "556db7dc-cbe2-4f10-8b46-9b168f826090",
+    "name": "AI-901 Demos",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "3419921"
+  },
+  "item": [
+    {
+      "name": "Vision - Analyze Image",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/octet-stream",
+            "description": "Content type for the image"
+          },
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": "",
+            "description": "Key for east-us"
+          }
+        ],
+        "body": {
+          "mode": "file",
+          "file": {
+            "src": "/C:/Data/Repo/oreilly-ai-901/Demo/vision-pyramids.jpg"
+          }
+        },
+        "url": {
+          "raw": "https://ai901-ordemo-vision.cognitiveservices.azure.com/vision/v3.2/analyze?visualFeatures=Description",
+          "protocol": "https",
+          "host": [
+            "ai901-ordemo-vision",
+            "cognitiveservices",
+            "azure",
+            "com"
+          ],
+          "path": [
+            "vision",
+            "v3.2",
+            "analyze"
+          ],
+          "query": [
+            {
+              "key": "visualFeatures",
+              "value": "Description"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Vision - OCR",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/octet-stream",
+            "description": "Content type for the image"
+          },
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": "",
+            "description": "Key for east-us"
+          }
+        ],
+        "body": {
+          "mode": "file",
+          "file": {
+            "src": "/C:/Data/Repo/oreilly-ai-900/Demo/Vision/handwritten-note.jpg"
+          }
+        },
+        "url": {
+          "raw": "https://ai901-ordemo-vision.cognitiveservices.azure.com/vision/v3.2/ocr?language=en",
+          "protocol": "https",
+          "host": [
+            "ai901-ordemo-vision",
+            "cognitiveservices",
+            "azure",
+            "com"
+          ],
+          "path": [
+            "vision",
+            "v3.2",
+            "ocr"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "en"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Speech - Get Bearer Token",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          }
+        ],
+        "url": {
+          "raw": "https://centralus.api.cognitive.microsoft.com/sts/v1.0/issueToken",
+          "protocol": "https",
+          "host": [
+            "centralus",
+            "api",
+            "cognitive",
+            "microsoft",
+            "com"
+          ],
+          "path": [
+            "sts",
+            "v1.0",
+            "issueToken"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Speech - List Voices",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          }
+        ],
+        "url": {
+          "raw": "https://centralus.tts.speech.microsoft.com/cognitiveservices/voices/list",
+          "protocol": "https",
+          "host": [
+            "centralus",
+            "tts",
+            "speech",
+            "microsoft",
+            "com"
+          ],
+          "path": [
+            "cognitiveservices",
+            "voices",
+            "list"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Speech - Text to Speech",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/ssml+xml"
+          },
+          {
+            "key": "X-Microsoft-OutputFormat",
+            "value": "audio-16khz-128kbitrate-mono-mp3"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<speak version='1.0' xml:lang='en-US'><voice xml:lang='en-US' xml:gender='Male' name='af-ZA-WillemNeural'>\r\n        We are learning about Microsoft Azure Foundry Tools with OReilly in October 2025!\r\n</voice></speak>",
+          "options": {
+            "raw": {
+              "language": "text"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://centralus.tts.speech.microsoft.com/cognitiveservices/v1",
+          "protocol": "https",
+          "host": [
+            "centralus",
+            "tts",
+            "speech",
+            "microsoft",
+            "com"
+          ],
+          "path": [
+            "cognitiveservices",
+            "v1"
+          ],
+          "query": [
+            {
+              "key": "",
+              "value": "",
+              "disabled": true
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Speech - Speech to Text",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          },
+          {
+            "key": "Content-type",
+            "value": "audio/wav"
+          }
+        ],
+        "body": {
+          "mode": "file",
+          "file": {
+            "src": "/C:/Data/Repo/oreilly-ai-901/Demo/input-speech.wav"
+          }
+        },
+        "url": {
+          "raw": "https://centralus.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US",
+          "protocol": "https",
+          "host": [
+            "centralus",
+            "stt",
+            "speech",
+            "microsoft",
+            "com"
+          ],
+          "path": [
+            "speech",
+            "recognition",
+            "conversation",
+            "cognitiveservices",
+            "v1"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "en-US"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Language - Text Analytics - Entities",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"kind\": \"EntityLinking\",\r\n  \"parameters\": {\r\n    \"modelVersion\": \"latest\"\r\n  },\r\n  \"analysisInput\": {\r\n    \"documents\": [\r\n      {\r\n        \"id\": \"1\",\r\n        \"language\": \"en\",\r\n        \"text\": \"Microsoft was founded by Bill Gates and Paul Allen.\"\r\n      },\r\n      {\r\n        \"id\": \"2\",\r\n        \"language\": \"en\",\r\n        \"text\": \"Pike place market is my favorite Seattle attraction.\"\r\n      }\r\n    ]\r\n  }\r\n}",
+          "options": {
+            "raw": {
+              "language": "text"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://ai900-oredemo-language.cognitiveservices.azure.com/language/:analyze-text?api-version=2024-11-01",
+          "protocol": "https",
+          "host": [
+            "ai900-oredemo-language",
+            "cognitiveservices",
+            "azure",
+            "com"
+          ],
+          "path": [
+            "language",
+            ":analyze-text"
+          ],
+          "query": [
+            {
+              "key": "api-version",
+              "value": "2024-11-01"
+            }
+          ],
+          "variable": [
+            {
+              "key": "analyze-text",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Language - Text Analytics - Key Phrases",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"kind\": \"KeyPhraseExtraction\",\r\n  \"parameters\": {\r\n    \"modelVersion\": \"latest\"\r\n  },\r\n  \"analysisInput\": {\r\n    \"documents\": [\r\n      {\r\n        \"id\": \"1\",\r\n        \"language\": \"en\",\r\n        \"text\": \"Microsoft was founded by Bill Gates and Paul Allen.\"\r\n      },\r\n      {\r\n        \"id\": \"2\",\r\n        \"language\": \"en\",\r\n        \"text\": \"Text Analytics is one of the Azure Cognitive Services.\"\r\n      },\r\n      {\r\n        \"id\": \"3\",\r\n        \"language\": \"en\",\r\n        \"text\": \"My cat might need to see a veterinarian.\"\r\n      }\r\n    ]\r\n  }\r\n}",
+          "options": {
+            "raw": {
+              "language": "text"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://ai900-oredemo-language.cognitiveservices.azure.com/language/:analyze-text?api-version=2024-11-01",
+          "protocol": "https",
+          "host": [
+            "ai900-oredemo-language",
+            "cognitiveservices",
+            "azure",
+            "com"
+          ],
+          "path": [
+            "language",
+            ":analyze-text"
+          ],
+          "query": [
+            {
+              "key": "api-version",
+              "value": "2024-11-01"
+            }
+          ],
+          "variable": [
+            {
+              "key": "analyze-text",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Language - Text Analytics - Sentiment",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"kind\": \"SentimentAnalysis\",\r\n  \"parameters\": {\r\n    \"modelVersion\": \"latest\"\r\n  },\r\n  \"analysisInput\": {\r\n    \"documents\": [\r\n      {\r\n        \"id\": \"1\",\r\n        \"language\": \"en\",\r\n        \"text\": \"Great atmosphere. Close to plenty of restaurants, hotels, and transit! Staff are friendly and helpful.\"\r\n      }\r\n    ]\r\n  }\r\n}",
+          "options": {
+            "raw": {
+              "language": "text"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://ai900-oredemo-language.cognitiveservices.azure.com/language/:analyze-text?api-version=2024-11-01",
+          "protocol": "https",
+          "host": [
+            "ai900-oredemo-language",
+            "cognitiveservices",
+            "azure",
+            "com"
+          ],
+          "path": [
+            "language",
+            ":analyze-text"
+          ],
+          "query": [
+            {
+              "key": "api-version",
+              "value": "2024-11-01"
+            }
+          ],
+          "variable": [
+            {
+              "key": "analyze-text",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Face - Face Detection",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/octet-stream"
+          },
+          {
+            "key": "Ocp-Apim-Subscription-Key",
+            "value": ""
+          }
+        ],
+        "body": {
+          "mode": "file",
+          "file": {
+            "src": "/C:/Data/Repo/oreilly-ai-900/Demo/Vision/Bill_Gates_July_2014.jpg"
+          }
+        },
+        "url": {
+          "raw": "https://ai901-ordemo-faceapi.cognitiveservices.azure.com/face/v1.0/detect?_overload=detect&returnFaceAttributes=headPose,glasses&returnFaceLandmarks=true",
+          "protocol": "https",
+          "host": [
+            "ai901-ordemo-faceapi",
+            "cognitiveservices",
+            "azure",
+            "com"
+          ],
+          "path": [
+            "face",
+            "v1.0",
+            "detect"
+          ],
+          "query": [
+            {
+              "key": "_overload",
+              "value": "detect"
+            },
+            {
+              "key": "returnFaceAttributes",
+              "value": "headPose,glasses"
+            },
+            {
+              "key": "returnFaceLandmarks",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

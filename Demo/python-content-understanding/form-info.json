@@ -1,0 +1,5451 @@
+{
+  "analyzerId": "prebuilt-layout",
+  "apiVersion": "2026-06-01-preview",
+  "createdAt": "2026-09-03T01:30:38Z",
+  "stringEncoding": "codePoint",
+  "warnings": [],
+  "contents": [
+    {
+      "path": "input1",
+      "markdown": "# Beacon Roofing Supply, Inc. Notes to Consolidated Financial Statements Year Ended September 30, 2010 (dollars in thousands, except per share data or as otherwise indicated)\n\n\n## 5. Prepaid Expenses and Other Current Assets\n\nThe significant components of prepaid expenses and other current assets were as follows:\n\n\n<table>\n<tr>\n<th></th>\n<th>September 30, 2010</th>\n<th>September 30. 2009</th>\n</tr>\n<tr>\n<td>Vendor rebates</td>\n<td>$34.538</td>\n<td>$38,857</td>\n</tr>\n<tr>\n<td>Refundable income taxes</td>\n<td>3,846</td>\n<td>3,545</td>\n</tr>\n<tr>\n<td>Other.</td>\n<td>4,731</td>\n<td>10,312</td>\n</tr>\n<tr>\n<td></td>\n<td>$43,115</td>\n<td>$52,714</td>\n</tr>\n</table>\n\n\n## 6. Property and Equipment, net\n\nProperty and equipment, net, consisted of the following:\n\n\n<table>\n<tr>\n<th></th>\n<th>September 30, 2010</th>\n<th>September 30. 2009</th>\n</tr>\n<tr>\n<td>Land</td>\n<td>S 3,056</td>\n<td>$ 3,190</td>\n</tr>\n<tr>\n<td>Buildings and leasehold improvements</td>\n<td>19,987</td>\n<td>18,725</td>\n</tr>\n<tr>\n<td>Equipment</td>\n<td>107.548</td>\n<td>100,731</td>\n</tr>\n<tr>\n<td>Furniture and fixtures</td>\n<td>10.936</td>\n<td>10,478</td>\n</tr>\n<tr>\n<td></td>\n<td>141,527</td>\n<td>133,124</td>\n</tr>\n<tr>\n<td>Less: accumulated depreciation and amortization</td>\n<td>93,776</td>\n<td>80.159</td>\n</tr>\n<tr>\n<td></td>\n<td>$ 47,751</td>\n<td>$ 52,965</td>\n</tr>\n</table>\n\n\nDepreciation and amortization of property and equipment totaled $17,077, $17.389 and $18,381 in 2010.\n2009 and 2008, respectively.\n\n\n## 7. Acerued Expenses\n\nThe significant components of accrued expenses were as follows:\n\n\n<table>\n<tr>\n<th colspan=\"2\">![](figures/1.1)</th>\n<th>September 30, 2010</th>\n<th>September 30, 2009</th>\n</tr>\n<tr>\n<td colspan=\"2\">Uninvoiced inventory receipts</td>\n<td>$ 7,739</td>\n<td>$19,970</td>\n</tr>\n<tr>\n<td colspan=\"2\">Employee-related accruals.</td>\n<td>13,498</td>\n<td>18,736</td>\n</tr>\n<tr>\n<td></td>\n<td>Unrealized loss on financial derivatives.</td>\n<td>11,084</td>\n<td>12,348</td>\n</tr>\n<tr>\n<td></td>\n<td>Other.</td>\n<td>17.811</td>\n<td>24,482</td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n<td>$50,132</td>\n<td>$75,536</td>\n</tr>\n</table>\n\n\n## 8. Financing Arrangements\n\n\n### Senior Secured Credit Facilities\n\nOn November 2, 2006, the Company entered into an amended and restated seven-year $500 million\nU.S. senior secured credit facility and a CS15 million senior secured Canadian credit facility with GE Antares\nCapital (\"GE Antares\") and a syndicate of other lenders (combined, the \"Credit Facility\"). The Credit\nFacility provides for a cash receipts lock-box arrangement that gives the Company sole control over the funds\nin lock-box accounts, unless excess availability is less than $10 million or an event of default occurs, in which\ncase the senior secured lenders would have the right to take control over such funds and to apply such funds\nto repayment of the senior debt.\n\n<!-- PageNumber: 52 -->\n",
+      "kind": "document",
+      "startPageNumber": 1,
+      "endPageNumber": 1,
+      "unit": "pixel",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "angle": 0.50118,
+          "width": 583,
+          "height": 820,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 2899
+            }
+          ],
+          "words": [
+            {
+              "content": "Beacon",
+              "span": {
+                "offset": 2,
+                "length": 6
+              },
+              "confidence": 0.997,
+              "source": "D(1,247,77,280,78,280,91,247,90)"
+            },
+            {
+              "content": "Roofing",
+              "span": {
+                "offset": 9,
+                "length": 7
+              },
+              "confidence": 0.993,
+              "source": "D(1,283,78,318,78,318,92,283,91)"
+            },
+            {
+              "content": "Supply",
+              "span": {
+                "offset": 17,
+                "length": 6
+              },
+              "confidence": 0.994,
+              "source": "D(1,321,78,353,79,353,92,321,92)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 23,
+                "length": 1
+              },
+              "confidence": 0.978,
+              "source": "D(1,351,79,354,79,354,92,351,92)"
+            },
+            {
+              "content": "Inc",
+              "span": {
+                "offset": 25,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,357,79,372,79,372,93,357,92)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 28,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,372,79,376,79,376,93,372,93)"
+            },
+            {
+              "content": "Notes",
+              "span": {
+                "offset": 30,
+                "length": 5
+              },
+              "confidence": 0.994,
+              "source": "D(1,213,98,238,98,238,111,213,110)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 36,
+                "length": 2
+              },
+              "confidence": 0.998,
+              "source": "D(1,241,98,250,98,250,111,241,111)"
+            },
+            {
+              "content": "Consolidated",
+              "span": {
+                "offset": 39,
+                "length": 12
+              },
+              "confidence": 0.994,
+              "source": "D(1,253,98,311,99,311,112,253,111)"
+            },
+            {
+              "content": "Financial",
+              "span": {
+                "offset": 52,
+                "length": 9
+              },
+              "confidence": 0.995,
+              "source": "D(1,315,99,356,100,356,112,315,112)"
+            },
+            {
+              "content": "Statements",
+              "span": {
+                "offset": 62,
+                "length": 10
+              },
+              "confidence": 0.996,
+              "source": "D(1,359,100,410,101,410,113,359,112)"
+            },
+            {
+              "content": "Year",
+              "span": {
+                "offset": 73,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,239,110,259,110,259,121,239,121)"
+            },
+            {
+              "content": "Ended",
+              "span": {
+                "offset": 78,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,262,110,291,110,291,122,262,121)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 84,
+                "length": 9
+              },
+              "confidence": 0.993,
+              "source": "D(1,294,110,343,110,343,122,294,122)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 94,
+                "length": 2
+              },
+              "confidence": 0.981,
+              "source": "D(1,345,110,356,110,356,122,345,122)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 96,
+                "length": 1
+              },
+              "confidence": 0.976,
+              "source": "D(1,356,110,358,110,358,122,356,122)"
+            },
+            {
+              "content": "2010",
+              "span": {
+                "offset": 98,
+                "length": 4
+              },
+              "confidence": 0.982,
+              "source": "D(1,361,110,384,111,384,122,361,122)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 103,
+                "length": 1
+              },
+              "confidence": 0.947,
+              "source": "D(1,151,118,155,118,155,131,151,131)"
+            },
+            {
+              "content": "dollars",
+              "span": {
+                "offset": 104,
+                "length": 7
+              },
+              "confidence": 0.977,
+              "source": "D(1,155,118,185,119,185,131,155,131)"
+            },
+            {
+              "content": "in",
+              "span": {
+                "offset": 112,
+                "length": 2
+              },
+              "confidence": 0.995,
+              "source": "D(1,189,119,198,119,198,132,189,131)"
+            },
+            {
+              "content": "thousands",
+              "span": {
+                "offset": 115,
+                "length": 9
+              },
+              "confidence": 0.991,
+              "source": "D(1,201,119,246,120,246,132,201,132)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 124,
+                "length": 1
+              },
+              "confidence": 0.989,
+              "source": "D(1,246,120,249,120,249,132,246,132)"
+            },
+            {
+              "content": "except",
+              "span": {
+                "offset": 126,
+                "length": 6
+              },
+              "confidence": 0.988,
+              "source": "D(1,252,120,281,120,281,133,252,132)"
+            },
+            {
+              "content": "per",
+              "span": {
+                "offset": 133,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,284,120,299,121,299,133,284,133)"
+            },
+            {
+              "content": "share",
+              "span": {
+                "offset": 137,
+                "length": 5
+              },
+              "confidence": 0.983,
+              "source": "D(1,302,121,327,121,327,133,302,133)"
+            },
+            {
+              "content": "data",
+              "span": {
+                "offset": 143,
+                "length": 4
+              },
+              "confidence": 0.954,
+              "source": "D(1,330,121,350,121,350,134,330,133)"
+            },
+            {
+              "content": "or",
+              "span": {
+                "offset": 148,
+                "length": 2
+              },
+              "confidence": 0.952,
+              "source": "D(1,353,121,363,121,363,134,353,134)"
+            },
+            {
+              "content": "as",
+              "span": {
+                "offset": 151,
+                "length": 2
+              },
+              "confidence": 0.922,
+              "source": "D(1,365,121,375,122,375,134,365,134)"
+            },
+            {
+              "content": "otherwise",
+              "span": {
+                "offset": 154,
+                "length": 9
+              },
+              "confidence": 0.896,
+              "source": "D(1,378,122,421,122,421,134,378,134)"
+            },
+            {
+              "content": "indicated",
+              "span": {
+                "offset": 164,
+                "length": 9
+              },
+              "confidence": 0.941,
+              "source": "D(1,424,122,465,122,465,135,424,135)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 173,
+                "length": 1
+              },
+              "confidence": 0.99,
+              "source": "D(1,465,122,470,122,470,135,465,135)"
+            },
+            {
+              "content": "5",
+              "span": {
+                "offset": 180,
+                "length": 1
+              },
+              "confidence": 0.957,
+              "source": "D(1,72,137,78,138,78,151,72,151)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 181,
+                "length": 1
+              },
+              "confidence": 0.945,
+              "source": "D(1,78,137,81,138,81,151,78,151)"
+            },
+            {
+              "content": "Prepaid",
+              "span": {
+                "offset": 183,
+                "length": 7
+              },
+              "confidence": 0.96,
+              "source": "D(1,84,138,119,138,119,151,84,151)"
+            },
+            {
+              "content": "Expenses",
+              "span": {
+                "offset": 191,
+                "length": 8
+              },
+              "confidence": 0.991,
+              "source": "D(1,122,138,164,138,164,152,122,152)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 200,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,167,138,184,139,184,152,167,152)"
+            },
+            {
+              "content": "Other",
+              "span": {
+                "offset": 204,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,188,139,214,139,214,152,188,152)"
+            },
+            {
+              "content": "Current",
+              "span": {
+                "offset": 210,
+                "length": 7
+              },
+              "confidence": 0.994,
+              "source": "D(1,218,139,254,139,254,153,218,152)"
+            },
+            {
+              "content": "Assets",
+              "span": {
+                "offset": 218,
+                "length": 6
+              },
+              "confidence": 0.995,
+              "source": "D(1,256,139,286,139,286,153,256,153)"
+            },
+            {
+              "content": "The",
+              "span": {
+                "offset": 226,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,92,158,110,158,110,172,92,171)"
+            },
+            {
+              "content": "significant",
+              "span": {
+                "offset": 230,
+                "length": 11
+              },
+              "confidence": 0.985,
+              "source": "D(1,113,158,157,159,157,172,113,172)"
+            },
+            {
+              "content": "components",
+              "span": {
+                "offset": 242,
+                "length": 10
+              },
+              "confidence": 0.983,
+              "source": "D(1,160,159,211,159,211,173,160,172)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 253,
+                "length": 2
+              },
+              "confidence": 0.996,
+              "source": "D(1,214,159,224,159,224,173,214,173)"
+            },
+            {
+              "content": "prepaid",
+              "span": {
+                "offset": 256,
+                "length": 7
+              },
+              "confidence": 0.982,
+              "source": "D(1,225,159,257,160,257,173,225,173)"
+            },
+            {
+              "content": "expenses",
+              "span": {
+                "offset": 264,
+                "length": 8
+              },
+              "confidence": 0.98,
+              "source": "D(1,260,160,298,160,298,174,260,173)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 273,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,302,160,317,160,317,174,302,174)"
+            },
+            {
+              "content": "other",
+              "span": {
+                "offset": 277,
+                "length": 5
+              },
+              "confidence": 0.958,
+              "source": "D(1,320,160,342,161,342,174,320,174)"
+            },
+            {
+              "content": "current",
+              "span": {
+                "offset": 283,
+                "length": 7
+              },
+              "confidence": 0.969,
+              "source": "D(1,344,161,374,161,374,175,344,174)"
+            },
+            {
+              "content": "assets",
+              "span": {
+                "offset": 291,
+                "length": 6
+              },
+              "confidence": 0.936,
+              "source": "D(1,377,161,401,162,401,175,377,175)"
+            },
+            {
+              "content": "were",
+              "span": {
+                "offset": 298,
+                "length": 4
+              },
+              "confidence": 0.987,
+              "source": "D(1,404,162,425,162,425,175,404,175)"
+            },
+            {
+              "content": "as",
+              "span": {
+                "offset": 303,
+                "length": 2
+              },
+              "confidence": 0.994,
+              "source": "D(1,428,162,437,162,437,175,428,175)"
+            },
+            {
+              "content": "follows",
+              "span": {
+                "offset": 306,
+                "length": 7
+              },
+              "confidence": 0.952,
+              "source": "D(1,440,162,472,162,472,176,440,175)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 313,
+                "length": 1
+              },
+              "confidence": 0.878,
+              "source": "D(1,471,162,476,162,476,176,471,176)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 344,
+                "length": 9
+              },
+              "confidence": 0.331,
+              "source": "D(1,405,186,443,185,443,196,405,196)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 354,
+                "length": 2
+              },
+              "confidence": 0.906,
+              "source": "D(1,446,185,454,186,454,196,446,196)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 356,
+                "length": 1
+              },
+              "confidence": 0.901,
+              "source": "D(1,454,186,459,186,459,197,454,196)"
+            },
+            {
+              "content": "2010",
+              "span": {
+                "offset": 358,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,423,195,441,195,441,204,423,203)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 372,
+                "length": 9
+              },
+              "confidence": 0.076,
+              "source": "D(1,470,186,509,186,509,197,470,196)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 382,
+                "length": 2
+              },
+              "confidence": 0.972,
+              "source": "D(1,511,186,520,186,520,197,511,197)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 384,
+                "length": 1
+              },
+              "confidence": 0.716,
+              "source": "D(1,520,186,523,186,523,197,520,197)"
+            },
+            {
+              "content": "2009",
+              "span": {
+                "offset": 386,
+                "length": 4
+              },
+              "confidence": 0.998,
+              "source": "D(1,488,195,506,195,506,204,488,204)"
+            },
+            {
+              "content": "Vendor",
+              "span": {
+                "offset": 411,
+                "length": 6
+              },
+              "confidence": 0.983,
+              "source": "D(1,93,202,124,202,124,215,93,214)"
+            },
+            {
+              "content": "rebates",
+              "span": {
+                "offset": 418,
+                "length": 7
+              },
+              "confidence": 0.341,
+              "source": "D(1,126,202,159,203,159,215,126,215)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 435,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,414,207,419,207,419,218,414,218)"
+            },
+            {
+              "content": "34.538",
+              "span": {
+                "offset": 436,
+                "length": 6
+              },
+              "confidence": 0.71,
+              "source": "D(1,419,207,449,207,449,218,419,218)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 452,
+                "length": 1
+              },
+              "confidence": 0.698,
+              "source": "D(1,479,207,484,207,484,218,479,218)"
+            },
+            {
+              "content": "38,857",
+              "span": {
+                "offset": 453,
+                "length": 6
+              },
+              "confidence": 0.525,
+              "source": "D(1,484,207,514,207,514,218,484,218)"
+            },
+            {
+              "content": "Refundable",
+              "span": {
+                "offset": 480,
+                "length": 10
+              },
+              "confidence": 0.987,
+              "source": "D(1,92,215,141,216,141,229,92,228)"
+            },
+            {
+              "content": "income",
+              "span": {
+                "offset": 491,
+                "length": 6
+              },
+              "confidence": 0.996,
+              "source": "D(1,144,216,175,217,175,229,144,229)"
+            },
+            {
+              "content": "taxes",
+              "span": {
+                "offset": 498,
+                "length": 5
+              },
+              "confidence": 0.996,
+              "source": "D(1,177,217,202,217,202,229,177,229)"
+            },
+            {
+              "content": "3,846",
+              "span": {
+                "offset": 513,
+                "length": 5
+              },
+              "confidence": 0.911,
+              "source": "D(1,424,220,449,220,449,231,424,231)"
+            },
+            {
+              "content": "3,545",
+              "span": {
+                "offset": 528,
+                "length": 5
+              },
+              "confidence": 0.849,
+              "source": "D(1,489,221,514,221,514,232,489,232)"
+            },
+            {
+              "content": "Other",
+              "span": {
+                "offset": 554,
+                "length": 5
+              },
+              "confidence": 0.997,
+              "source": "D(1,92,230,117,230,117,241,92,241)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 559,
+                "length": 1
+              },
+              "confidence": 0.934,
+              "source": "D(1,117,230,119,230,119,241,117,241)"
+            },
+            {
+              "content": "4,731",
+              "span": {
+                "offset": 570,
+                "length": 5
+              },
+              "confidence": 0.805,
+              "source": "D(1,424,234,447,234,447,245,424,245)"
+            },
+            {
+              "content": "10,312",
+              "span": {
+                "offset": 585,
+                "length": 6
+              },
+              "confidence": 0.716,
+              "source": "D(1,486,235,514,235,514,246,486,246)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 622,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,413,248,418,248,418,258,413,258)"
+            },
+            {
+              "content": "43,115",
+              "span": {
+                "offset": 623,
+                "length": 6
+              },
+              "confidence": 0.816,
+              "source": "D(1,418,248,448,248,448,259,418,258)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 639,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,479,249,484,249,484,260,479,260)"
+            },
+            {
+              "content": "52,714",
+              "span": {
+                "offset": 640,
+                "length": 6
+              },
+              "confidence": 0.957,
+              "source": "D(1,484,249,513,249,513,260,484,260)"
+            },
+            {
+              "content": "6",
+              "span": {
+                "offset": 672,
+                "length": 1
+              },
+              "confidence": 0.965,
+              "source": "D(1,70,266,76,266,76,280,70,280)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 673,
+                "length": 1
+              },
+              "confidence": 0.955,
+              "source": "D(1,76,266,78,266,78,280,76,280)"
+            },
+            {
+              "content": "Property",
+              "span": {
+                "offset": 675,
+                "length": 8
+              },
+              "confidence": 0.961,
+              "source": "D(1,81,266,122,267,122,280,81,280)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 684,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,125,267,142,267,142,280,125,280)"
+            },
+            {
+              "content": "Equipment",
+              "span": {
+                "offset": 688,
+                "length": 9
+              },
+              "confidence": 0.991,
+              "source": "D(1,146,267,196,267,196,281,146,280)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 697,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,195,267,198,267,198,281,195,281)"
+            },
+            {
+              "content": "net",
+              "span": {
+                "offset": 699,
+                "length": 3
+              },
+              "confidence": 0.998,
+              "source": "D(1,201,267,217,268,217,281,201,281)"
+            },
+            {
+              "content": "Property",
+              "span": {
+                "offset": 704,
+                "length": 8
+              },
+              "confidence": 0.982,
+              "source": "D(1,90,287,128,287,128,301,90,300)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 713,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,130,287,146,287,146,301,130,301)"
+            },
+            {
+              "content": "equipment",
+              "span": {
+                "offset": 717,
+                "length": 9
+              },
+              "confidence": 0.955,
+              "source": "D(1,149,287,193,288,193,302,149,301)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 726,
+                "length": 1
+              },
+              "confidence": 0.531,
+              "source": "D(1,193,288,195,288,195,302,193,302)"
+            },
+            {
+              "content": "net",
+              "span": {
+                "offset": 728,
+                "length": 3
+              },
+              "confidence": 0.975,
+              "source": "D(1,199,288,212,288,212,302,199,302)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 731,
+                "length": 1
+              },
+              "confidence": 0.823,
+              "source": "D(1,212,288,214,288,214,302,212,302)"
+            },
+            {
+              "content": "consisted",
+              "span": {
+                "offset": 733,
+                "length": 9
+              },
+              "confidence": 0.975,
+              "source": "D(1,218,288,257,288,257,302,218,302)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 743,
+                "length": 2
+              },
+              "confidence": 0.995,
+              "source": "D(1,260,288,270,288,270,302,260,302)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 746,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,272,288,285,289,285,302,272,302)"
+            },
+            {
+              "content": "following",
+              "span": {
+                "offset": 750,
+                "length": 9
+              },
+              "confidence": 0.978,
+              "source": "D(1,288,289,330,289,330,303,288,302)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 759,
+                "length": 1
+              },
+              "confidence": 0.935,
+              "source": "D(1,329,289,334,289,334,303,329,303)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 790,
+                "length": 9
+              },
+              "confidence": 0.065,
+              "source": "D(1,403,314,441,314,441,325,403,325)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 800,
+                "length": 2
+              },
+              "confidence": 0.968,
+              "source": "D(1,444,314,453,314,453,325,444,325)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 802,
+                "length": 1
+              },
+              "confidence": 0.927,
+              "source": "D(1,452,314,456,314,456,325,452,325)"
+            },
+            {
+              "content": "2010",
+              "span": {
+                "offset": 804,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,421,323,439,324,439,333,421,332)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 818,
+                "length": 9
+              },
+              "confidence": 0.925,
+              "source": "D(1,469,315,508,315,508,326,469,326)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 828,
+                "length": 2
+              },
+              "confidence": 0.972,
+              "source": "D(1,509,315,518,315,518,326,509,326)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 830,
+                "length": 1
+              },
+              "confidence": 0.64,
+              "source": "D(1,518,315,522,315,522,326,518,326)"
+            },
+            {
+              "content": "2009",
+              "span": {
+                "offset": 832,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,487,324,504,324,504,333,487,333)"
+            },
+            {
+              "content": "Land",
+              "span": {
+                "offset": 857,
+                "length": 4
+              },
+              "confidence": 0.995,
+              "source": "D(1,90,332,115,332,115,343,90,343)"
+            },
+            {
+              "content": "S",
+              "span": {
+                "offset": 871,
+                "length": 1
+              },
+              "confidence": 0.67,
+              "source": "D(1,409,336,416,336,416,346,409,346)"
+            },
+            {
+              "content": "3,056",
+              "span": {
+                "offset": 873,
+                "length": 5
+              },
+              "confidence": 0.91,
+              "source": "D(1,424,336,450,336,450,347,424,347)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 888,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,475,337,480,337,480,348,475,348)"
+            },
+            {
+              "content": "3,190",
+              "span": {
+                "offset": 890,
+                "length": 5
+              },
+              "confidence": 0.878,
+              "source": "D(1,490,337,516,337,516,348,490,348)"
+            },
+            {
+              "content": "Buildings",
+              "span": {
+                "offset": 916,
+                "length": 9
+              },
+              "confidence": 0.985,
+              "source": "D(1,90,345,132,345,132,358,90,358)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 926,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,135,345,151,345,151,358,135,358)"
+            },
+            {
+              "content": "leasehold",
+              "span": {
+                "offset": 930,
+                "length": 9
+              },
+              "confidence": 0.185,
+              "source": "D(1,154,346,192,346,192,358,154,358)"
+            },
+            {
+              "content": "improvements",
+              "span": {
+                "offset": 940,
+                "length": 12
+              },
+              "confidence": 0.986,
+              "source": "D(1,195,346,258,347,258,359,195,358)"
+            },
+            {
+              "content": "19,987",
+              "span": {
+                "offset": 962,
+                "length": 6
+              },
+              "confidence": 0.876,
+              "source": "D(1,420,349,449,349,449,360,420,360)"
+            },
+            {
+              "content": "18,725",
+              "span": {
+                "offset": 978,
+                "length": 6
+              },
+              "confidence": 0.54,
+              "source": "D(1,486,350,515,350,515,361,486,361)"
+            },
+            {
+              "content": "Equipment",
+              "span": {
+                "offset": 1005,
+                "length": 9
+              },
+              "confidence": 0.993,
+              "source": "D(1,90,359,139,359,139,372,90,371)"
+            },
+            {
+              "content": "107.548",
+              "span": {
+                "offset": 1024,
+                "length": 7
+              },
+              "confidence": 0.212,
+              "source": "D(1,415,363,450,363,450,375,415,374)"
+            },
+            {
+              "content": "100,731",
+              "span": {
+                "offset": 1041,
+                "length": 7
+              },
+              "confidence": 0.884,
+              "source": "D(1,481,364,514,364,514,375,481,375)"
+            },
+            {
+              "content": "Furniture",
+              "span": {
+                "offset": 1069,
+                "length": 9
+              },
+              "confidence": 0.982,
+              "source": "D(1,89,372,129,373,129,385,89,385)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 1079,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,133,373,148,373,148,385,133,385)"
+            },
+            {
+              "content": "fixtures",
+              "span": {
+                "offset": 1083,
+                "length": 8
+              },
+              "confidence": 0.975,
+              "source": "D(1,151,373,185,373,185,385,151,385)"
+            },
+            {
+              "content": "10.936",
+              "span": {
+                "offset": 1101,
+                "length": 6
+              },
+              "confidence": 0.234,
+              "source": "D(1,420,376,449,376,449,387,420,386)"
+            },
+            {
+              "content": "10,478",
+              "span": {
+                "offset": 1117,
+                "length": 6
+              },
+              "confidence": 0.967,
+              "source": "D(1,486,377,514,377,514,388,486,387)"
+            },
+            {
+              "content": "141,527",
+              "span": {
+                "offset": 1154,
+                "length": 7
+              },
+              "confidence": 0.716,
+              "source": "D(1,414,391,448,391,448,402,414,402)"
+            },
+            {
+              "content": "133,124",
+              "span": {
+                "offset": 1171,
+                "length": 7
+              },
+              "confidence": 0.71,
+              "source": "D(1,480,391,514,392,514,403,480,402)"
+            },
+            {
+              "content": "Less",
+              "span": {
+                "offset": 1199,
+                "length": 4
+              },
+              "confidence": 0.979,
+              "source": "D(1,89,399,109,400,109,412,89,412)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1203,
+                "length": 1
+              },
+              "confidence": 0.945,
+              "source": "D(1,108,399,111,400,111,413,108,412)"
+            },
+            {
+              "content": "accumulated",
+              "span": {
+                "offset": 1205,
+                "length": 11
+              },
+              "confidence": 0.938,
+              "source": "D(1,115,400,168,400,168,413,115,413)"
+            },
+            {
+              "content": "depreciation",
+              "span": {
+                "offset": 1217,
+                "length": 12
+              },
+              "confidence": 0.976,
+              "source": "D(1,171,400,223,401,223,414,171,413)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 1230,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,226,401,241,401,241,414,226,414)"
+            },
+            {
+              "content": "amortization",
+              "span": {
+                "offset": 1234,
+                "length": 12
+              },
+              "confidence": 0.992,
+              "source": "D(1,244,401,300,401,300,414,244,414)"
+            },
+            {
+              "content": "93,776",
+              "span": {
+                "offset": 1256,
+                "length": 6
+              },
+              "confidence": 0.8,
+              "source": "D(1,418,404,449,404,449,416,418,415)"
+            },
+            {
+              "content": "80.159",
+              "span": {
+                "offset": 1272,
+                "length": 6
+              },
+              "confidence": 0.682,
+              "source": "D(1,485,405,514,405,514,416,485,416)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 1309,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,408,418,413,418,413,429,408,429)"
+            },
+            {
+              "content": "47,751",
+              "span": {
+                "offset": 1311,
+                "length": 6
+              },
+              "confidence": 0.657,
+              "source": "D(1,418,418,447,419,447,430,418,429)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 1327,
+                "length": 1
+              },
+              "confidence": 0.979,
+              "source": "D(1,474,420,479,419,479,431,474,431)"
+            },
+            {
+              "content": "52,965",
+              "span": {
+                "offset": 1329,
+                "length": 6
+              },
+              "confidence": 0.91,
+              "source": "D(1,484,419,514,420,514,431,484,430)"
+            },
+            {
+              "content": "Depreciation",
+              "span": {
+                "offset": 1358,
+                "length": 12
+              },
+              "confidence": 0.973,
+              "source": "D(1,88,437,143,437,143,451,88,450)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 1371,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,146,437,161,437,161,451,146,451)"
+            },
+            {
+              "content": "amortization",
+              "span": {
+                "offset": 1375,
+                "length": 12
+              },
+              "confidence": 0.967,
+              "source": "D(1,165,437,217,438,217,452,165,451)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1388,
+                "length": 2
+              },
+              "confidence": 0.994,
+              "source": "D(1,220,438,230,438,230,452,220,452)"
+            },
+            {
+              "content": "property",
+              "span": {
+                "offset": 1391,
+                "length": 8
+              },
+              "confidence": 0.986,
+              "source": "D(1,232,438,268,438,268,453,232,452)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 1400,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,271,438,286,438,286,453,271,453)"
+            },
+            {
+              "content": "equipment",
+              "span": {
+                "offset": 1404,
+                "length": 9
+              },
+              "confidence": 0.985,
+              "source": "D(1,289,438,334,439,334,453,289,453)"
+            },
+            {
+              "content": "totaled",
+              "span": {
+                "offset": 1414,
+                "length": 7
+              },
+              "confidence": 0.975,
+              "source": "D(1,337,439,365,439,365,453,337,453)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 1422,
+                "length": 1
+              },
+              "confidence": 0.99,
+              "source": "D(1,368,439,374,439,374,454,368,454)"
+            },
+            {
+              "content": "17,077",
+              "span": {
+                "offset": 1423,
+                "length": 6
+              },
+              "confidence": 0.523,
+              "source": "D(1,375,439,402,440,402,454,375,454)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1429,
+                "length": 1
+              },
+              "confidence": 0.753,
+              "source": "D(1,402,440,404,440,404,454,402,454)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 1431,
+                "length": 1
+              },
+              "confidence": 0.981,
+              "source": "D(1,408,440,413,440,413,454,408,454)"
+            },
+            {
+              "content": "17.389",
+              "span": {
+                "offset": 1432,
+                "length": 6
+              },
+              "confidence": 0.54,
+              "source": "D(1,414,440,442,440,442,454,414,454)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 1439,
+                "length": 3
+              },
+              "confidence": 0.984,
+              "source": "D(1,446,440,461,441,461,454,446,454)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 1443,
+                "length": 1
+              },
+              "confidence": 0.983,
+              "source": "D(1,464,441,469,441,469,454,464,454)"
+            },
+            {
+              "content": "18,381",
+              "span": {
+                "offset": 1444,
+                "length": 6
+              },
+              "confidence": 0.748,
+              "source": "D(1,470,441,497,441,497,455,470,454)"
+            },
+            {
+              "content": "in",
+              "span": {
+                "offset": 1451,
+                "length": 2
+              },
+              "confidence": 0.982,
+              "source": "D(1,501,441,509,441,509,455,501,455)"
+            },
+            {
+              "content": "2010",
+              "span": {
+                "offset": 1454,
+                "length": 4
+              },
+              "confidence": 0.953,
+              "source": "D(1,512,441,534,442,534,455,512,455)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1458,
+                "length": 1
+              },
+              "confidence": 0.86,
+              "source": "D(1,533,442,538,442,538,455,533,455)"
+            },
+            {
+              "content": "2009",
+              "span": {
+                "offset": 1460,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,67,450,88,450,88,463,67,463)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 1465,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,92,450,107,450,107,463,92,463)"
+            },
+            {
+              "content": "2008",
+              "span": {
+                "offset": 1469,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,110,450,132,450,132,464,110,463)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1473,
+                "length": 1
+              },
+              "confidence": 0.904,
+              "source": "D(1,132,450,134,450,134,464,132,464)"
+            },
+            {
+              "content": "respectively",
+              "span": {
+                "offset": 1475,
+                "length": 12
+              },
+              "confidence": 0.955,
+              "source": "D(1,137,450,188,451,188,465,137,464)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1487,
+                "length": 1
+              },
+              "confidence": 0.911,
+              "source": "D(1,187,451,191,451,191,465,187,465)"
+            },
+            {
+              "content": "7",
+              "span": {
+                "offset": 1494,
+                "length": 1
+              },
+              "confidence": 0.94,
+              "source": "D(1,67,472,73,472,73,485,67,485)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1495,
+                "length": 1
+              },
+              "confidence": 0.932,
+              "source": "D(1,72,472,75,472,75,485,72,485)"
+            },
+            {
+              "content": "Acerued",
+              "span": {
+                "offset": 1497,
+                "length": 7
+              },
+              "confidence": 0.913,
+              "source": "D(1,77,472,116,472,116,486,77,485)"
+            },
+            {
+              "content": "Expenses",
+              "span": {
+                "offset": 1505,
+                "length": 8
+              },
+              "confidence": 0.989,
+              "source": "D(1,119,472,163,473,163,486,119,486)"
+            },
+            {
+              "content": "The",
+              "span": {
+                "offset": 1515,
+                "length": 3
+              },
+              "confidence": 0.997,
+              "source": "D(1,87,493,105,493,105,507,87,507)"
+            },
+            {
+              "content": "significant",
+              "span": {
+                "offset": 1519,
+                "length": 11
+              },
+              "confidence": 0.983,
+              "source": "D(1,108,493,152,493,152,507,108,507)"
+            },
+            {
+              "content": "components",
+              "span": {
+                "offset": 1531,
+                "length": 10
+              },
+              "confidence": 0.982,
+              "source": "D(1,155,494,205,494,205,508,155,507)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 1542,
+                "length": 2
+              },
+              "confidence": 0.997,
+              "source": "D(1,208,494,219,494,219,508,208,508)"
+            },
+            {
+              "content": "accrued",
+              "span": {
+                "offset": 1545,
+                "length": 7
+              },
+              "confidence": 0.523,
+              "source": "D(1,220,494,253,494,253,508,220,508)"
+            },
+            {
+              "content": "expenses",
+              "span": {
+                "offset": 1553,
+                "length": 8
+              },
+              "confidence": 0.975,
+              "source": "D(1,255,495,294,495,294,509,255,508)"
+            },
+            {
+              "content": "were",
+              "span": {
+                "offset": 1562,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,297,495,318,495,318,509,297,509)"
+            },
+            {
+              "content": "as",
+              "span": {
+                "offset": 1567,
+                "length": 2
+              },
+              "confidence": 0.996,
+              "source": "D(1,321,495,330,495,330,509,321,509)"
+            },
+            {
+              "content": "follows",
+              "span": {
+                "offset": 1570,
+                "length": 7
+              },
+              "confidence": 0.967,
+              "source": "D(1,333,495,365,496,365,510,333,509)"
+            },
+            {
+              "content": ":",
+              "span": {
+                "offset": 1577,
+                "length": 1
+              },
+              "confidence": 0.716,
+              "source": "D(1,364,496,369,496,369,510,364,510)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 1636,
+                "length": 9
+              },
+              "confidence": 0.942,
+              "source": "D(1,399,520,438,520,438,531,399,531)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 1646,
+                "length": 2
+              },
+              "confidence": 0.844,
+              "source": "D(1,440,520,450,520,450,531,440,531)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1648,
+                "length": 1
+              },
+              "confidence": 0.881,
+              "source": "D(1,449,520,453,520,453,531,449,531)"
+            },
+            {
+              "content": "2010",
+              "span": {
+                "offset": 1650,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,418,529,436,530,436,539,418,538)"
+            },
+            {
+              "content": "September",
+              "span": {
+                "offset": 1664,
+                "length": 9
+              },
+              "confidence": 0.986,
+              "source": "D(1,466,521,505,521,505,532,466,532)"
+            },
+            {
+              "content": "30",
+              "span": {
+                "offset": 1674,
+                "length": 2
+              },
+              "confidence": 0.987,
+              "source": "D(1,507,521,516,521,516,532,507,532)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 1676,
+                "length": 1
+              },
+              "confidence": 0.706,
+              "source": "D(1,515,521,519,521,519,532,515,532)"
+            },
+            {
+              "content": "2009",
+              "span": {
+                "offset": 1678,
+                "length": 4
+              },
+              "confidence": 0.996,
+              "source": "D(1,484,531,502,531,502,539,484,539)"
+            },
+            {
+              "content": "Uninvoiced",
+              "span": {
+                "offset": 1715,
+                "length": 10
+              },
+              "confidence": 0.992,
+              "source": "D(1,87,536,136,537,136,550,87,550)"
+            },
+            {
+              "content": "inventory",
+              "span": {
+                "offset": 1726,
+                "length": 9
+              },
+              "confidence": 0.992,
+              "source": "D(1,139,537,179,537,179,551,139,550)"
+            },
+            {
+              "content": "receipts",
+              "span": {
+                "offset": 1736,
+                "length": 8
+              },
+              "confidence": 0.991,
+              "source": "D(1,182,537,218,538,218,552,182,551)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 1754,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,408,542,414,542,414,553,408,553)"
+            },
+            {
+              "content": "7,739",
+              "span": {
+                "offset": 1756,
+                "length": 5
+              },
+              "confidence": 0.523,
+              "source": "D(1,419,542,444,542,444,553,419,553)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 1771,
+                "length": 1
+              },
+              "confidence": 0.906,
+              "source": "D(1,474,543,480,543,480,553,474,553)"
+            },
+            {
+              "content": "19,970",
+              "span": {
+                "offset": 1772,
+                "length": 6
+              },
+              "confidence": 0.812,
+              "source": "D(1,481,543,510,543,510,553,481,553)"
+            },
+            {
+              "content": "Employee",
+              "span": {
+                "offset": 1811,
+                "length": 8
+              },
+              "confidence": 0.995,
+              "source": "D(1,87,551,130,551,130,564,87,564)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 1819,
+                "length": 1
+              },
+              "confidence": 0.978,
+              "source": "D(1,129,551,133,551,133,564,129,564)"
+            },
+            {
+              "content": "related",
+              "span": {
+                "offset": 1820,
+                "length": 7
+              },
+              "confidence": 0.993,
+              "source": "D(1,133,551,162,551,162,564,133,564)"
+            },
+            {
+              "content": "accruals",
+              "span": {
+                "offset": 1828,
+                "length": 8
+              },
+              "confidence": 0.989,
+              "source": "D(1,164,551,199,552,199,565,164,564)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1836,
+                "length": 1
+              },
+              "confidence": 0.884,
+              "source": "D(1,198,552,201,552,201,565,198,565)"
+            },
+            {
+              "content": "13,498",
+              "span": {
+                "offset": 1847,
+                "length": 6
+              },
+              "confidence": 0.714,
+              "source": "D(1,414,555,444,556,444,567,414,567)"
+            },
+            {
+              "content": "18,736",
+              "span": {
+                "offset": 1863,
+                "length": 6
+              },
+              "confidence": 0.715,
+              "source": "D(1,481,556,510,556,510,567,481,567)"
+            },
+            {
+              "content": "Unrealized",
+              "span": {
+                "offset": 1900,
+                "length": 10
+              },
+              "confidence": 0.995,
+              "source": "D(1,86,564,133,565,133,578,86,577)"
+            },
+            {
+              "content": "loss",
+              "span": {
+                "offset": 1911,
+                "length": 4
+              },
+              "confidence": 0.997,
+              "source": "D(1,136,565,153,565,153,578,136,578)"
+            },
+            {
+              "content": "on",
+              "span": {
+                "offset": 1916,
+                "length": 2
+              },
+              "confidence": 0.997,
+              "source": "D(1,156,565,167,565,167,578,156,578)"
+            },
+            {
+              "content": "financial",
+              "span": {
+                "offset": 1919,
+                "length": 9
+              },
+              "confidence": 0.992,
+              "source": "D(1,169,565,205,565,205,578,169,578)"
+            },
+            {
+              "content": "derivatives",
+              "span": {
+                "offset": 1929,
+                "length": 11
+              },
+              "confidence": 0.994,
+              "source": "D(1,208,565,255,566,255,578,208,578)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 1940,
+                "length": 1
+              },
+              "confidence": 0.901,
+              "source": "D(1,255,566,257,566,257,578,255,578)"
+            },
+            {
+              "content": "11,084",
+              "span": {
+                "offset": 1951,
+                "length": 6
+              },
+              "confidence": 0.522,
+              "source": "D(1,414,569,444,569,444,580,414,579)"
+            },
+            {
+              "content": "12,348",
+              "span": {
+                "offset": 1967,
+                "length": 6
+              },
+              "confidence": 0.72,
+              "source": "D(1,480,569,509,569,509,580,480,580)"
+            },
+            {
+              "content": "Other",
+              "span": {
+                "offset": 2004,
+                "length": 5
+              },
+              "confidence": 0.993,
+              "source": "D(1,85,578,111,578,110,590,85,589)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2009,
+                "length": 1
+              },
+              "confidence": 0.861,
+              "source": "D(1,110,578,114,579,114,590,110,590)"
+            },
+            {
+              "content": "17.811",
+              "span": {
+                "offset": 2020,
+                "length": 6
+              },
+              "confidence": 0.324,
+              "source": "D(1,414,583,442,583,442,594,414,593)"
+            },
+            {
+              "content": "24,482",
+              "span": {
+                "offset": 2036,
+                "length": 6
+              },
+              "confidence": 0.579,
+              "source": "D(1,478,583,509,583,509,594,478,594)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 2085,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,408,596,413,596,413,607,408,607)"
+            },
+            {
+              "content": "50,132",
+              "span": {
+                "offset": 2086,
+                "length": 6
+              },
+              "confidence": 0.314,
+              "source": "D(1,413,596,443,596,443,607,413,607)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 2102,
+                "length": 1
+              },
+              "confidence": 0.476,
+              "source": "D(1,474,597,479,597,479,608,474,608)"
+            },
+            {
+              "content": "75,536",
+              "span": {
+                "offset": 2103,
+                "length": 6
+              },
+              "confidence": 0.202,
+              "source": "D(1,479,597,509,597,509,608,479,608)"
+            },
+            {
+              "content": "8",
+              "span": {
+                "offset": 2135,
+                "length": 1
+              },
+              "confidence": 0.991,
+              "source": "D(1,64,614,70,615,70,628,64,627)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2136,
+                "length": 1
+              },
+              "confidence": 0.989,
+              "source": "D(1,70,615,73,615,73,628,70,628)"
+            },
+            {
+              "content": "Financing",
+              "span": {
+                "offset": 2138,
+                "length": 9
+              },
+              "confidence": 0.988,
+              "source": "D(1,76,615,122,615,122,629,76,628)"
+            },
+            {
+              "content": "Arrangements",
+              "span": {
+                "offset": 2148,
+                "length": 12
+              },
+              "confidence": 0.993,
+              "source": "D(1,123,615,189,616,189,629,123,629)"
+            },
+            {
+              "content": "Senior",
+              "span": {
+                "offset": 2167,
+                "length": 6
+              },
+              "confidence": 0.985,
+              "source": "D(1,84,641,113,642,114,654,84,654)"
+            },
+            {
+              "content": "Secured",
+              "span": {
+                "offset": 2174,
+                "length": 7
+              },
+              "confidence": 0.981,
+              "source": "D(1,116,642,152,642,152,655,116,655)"
+            },
+            {
+              "content": "Credit",
+              "span": {
+                "offset": 2182,
+                "length": 6
+              },
+              "confidence": 0.973,
+              "source": "D(1,155,642,182,642,182,655,155,655)"
+            },
+            {
+              "content": "Facilities",
+              "span": {
+                "offset": 2189,
+                "length": 10
+              },
+              "confidence": 0.944,
+              "source": "D(1,185,642,227,642,227,655,185,655)"
+            },
+            {
+              "content": "On",
+              "span": {
+                "offset": 2201,
+                "length": 2
+              },
+              "confidence": 0.991,
+              "source": "D(1,84,662,98,662,98,675,84,675)"
+            },
+            {
+              "content": "November",
+              "span": {
+                "offset": 2204,
+                "length": 8
+              },
+              "confidence": 0.958,
+              "source": "D(1,100,662,146,663,146,676,100,675)"
+            },
+            {
+              "content": "2",
+              "span": {
+                "offset": 2213,
+                "length": 1
+              },
+              "confidence": 0.947,
+              "source": "D(1,149,663,154,663,154,676,149,676)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2214,
+                "length": 1
+              },
+              "confidence": 0.536,
+              "source": "D(1,154,663,157,663,157,676,154,676)"
+            },
+            {
+              "content": "2006",
+              "span": {
+                "offset": 2216,
+                "length": 4
+              },
+              "confidence": 0.877,
+              "source": "D(1,160,663,181,663,181,676,160,676)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2220,
+                "length": 1
+              },
+              "confidence": 0.773,
+              "source": "D(1,180,663,183,663,183,676,180,676)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 2222,
+                "length": 3
+              },
+              "confidence": 0.988,
+              "source": "D(1,186,663,199,663,199,677,186,676)"
+            },
+            {
+              "content": "Company",
+              "span": {
+                "offset": 2226,
+                "length": 7
+              },
+              "confidence": 0.989,
+              "source": "D(1,202,663,244,663,244,677,202,677)"
+            },
+            {
+              "content": "entered",
+              "span": {
+                "offset": 2234,
+                "length": 7
+              },
+              "confidence": 0.994,
+              "source": "D(1,247,664,278,664,278,678,247,677)"
+            },
+            {
+              "content": "into",
+              "span": {
+                "offset": 2242,
+                "length": 4
+              },
+              "confidence": 0.987,
+              "source": "D(1,281,664,299,664,299,678,281,678)"
+            },
+            {
+              "content": "an",
+              "span": {
+                "offset": 2247,
+                "length": 2
+              },
+              "confidence": 0.996,
+              "source": "D(1,301,664,311,664,311,678,301,678)"
+            },
+            {
+              "content": "amended",
+              "span": {
+                "offset": 2250,
+                "length": 7
+              },
+              "confidence": 0.99,
+              "source": "D(1,314,664,352,665,352,678,314,678)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 2258,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,355,665,371,665,371,679,355,678)"
+            },
+            {
+              "content": "restated",
+              "span": {
+                "offset": 2262,
+                "length": 8
+              },
+              "confidence": 0.986,
+              "source": "D(1,373,665,406,665,406,679,373,679)"
+            },
+            {
+              "content": "seven",
+              "span": {
+                "offset": 2271,
+                "length": 5
+              },
+              "confidence": 0.986,
+              "source": "D(1,409,665,432,666,432,679,409,679)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 2276,
+                "length": 1
+              },
+              "confidence": 0.98,
+              "source": "D(1,432,666,436,666,436,679,432,679)"
+            },
+            {
+              "content": "year",
+              "span": {
+                "offset": 2277,
+                "length": 4
+              },
+              "confidence": 0.985,
+              "source": "D(1,435,666,455,666,455,679,435,679)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 2282,
+                "length": 1
+              },
+              "confidence": 0.949,
+              "source": "D(1,457,666,463,666,463,679,457,679)"
+            },
+            {
+              "content": "500",
+              "span": {
+                "offset": 2283,
+                "length": 3
+              },
+              "confidence": 0.828,
+              "source": "D(1,463,666,479,666,479,680,463,679)"
+            },
+            {
+              "content": "million",
+              "span": {
+                "offset": 2287,
+                "length": 7
+              },
+              "confidence": 0.801,
+              "source": "D(1,482,667,514,667,514,680,482,680)"
+            },
+            {
+              "content": "U",
+              "span": {
+                "offset": 2295,
+                "length": 1
+              },
+              "confidence": 0.945,
+              "source": "D(1,64,675,71,675,71,688,64,688)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2296,
+                "length": 1
+              },
+              "confidence": 0.941,
+              "source": "D(1,71,675,74,675,74,688,71,688)"
+            },
+            {
+              "content": "S",
+              "span": {
+                "offset": 2297,
+                "length": 1
+              },
+              "confidence": 0.943,
+              "source": "D(1,73,675,79,675,79,688,73,688)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2298,
+                "length": 1
+              },
+              "confidence": 0.876,
+              "source": "D(1,79,675,81,675,81,688,79,688)"
+            },
+            {
+              "content": "senior",
+              "span": {
+                "offset": 2300,
+                "length": 6
+              },
+              "confidence": 0.942,
+              "source": "D(1,85,675,112,676,112,689,85,688)"
+            },
+            {
+              "content": "secured",
+              "span": {
+                "offset": 2307,
+                "length": 7
+              },
+              "confidence": 0.983,
+              "source": "D(1,115,676,147,676,147,689,115,689)"
+            },
+            {
+              "content": "credit",
+              "span": {
+                "offset": 2315,
+                "length": 6
+              },
+              "confidence": 0.974,
+              "source": "D(1,150,676,173,676,173,689,150,689)"
+            },
+            {
+              "content": "facility",
+              "span": {
+                "offset": 2322,
+                "length": 8
+              },
+              "confidence": 0.935,
+              "source": "D(1,177,676,207,677,207,689,177,689)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 2331,
+                "length": 3
+              },
+              "confidence": 0.992,
+              "source": "D(1,210,677,226,677,226,690,210,689)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 2335,
+                "length": 1
+              },
+              "confidence": 0.994,
+              "source": "D(1,228,677,234,677,234,690,228,690)"
+            },
+            {
+              "content": "CS15",
+              "span": {
+                "offset": 2337,
+                "length": 4
+              },
+              "confidence": 0.917,
+              "source": "D(1,236,677,259,677,259,690,236,690)"
+            },
+            {
+              "content": "million",
+              "span": {
+                "offset": 2342,
+                "length": 7
+              },
+              "confidence": 0.975,
+              "source": "D(1,262,677,294,678,294,690,262,690)"
+            },
+            {
+              "content": "senior",
+              "span": {
+                "offset": 2350,
+                "length": 6
+              },
+              "confidence": 0.989,
+              "source": "D(1,297,678,322,678,322,691,297,690)"
+            },
+            {
+              "content": "secured",
+              "span": {
+                "offset": 2357,
+                "length": 7
+              },
+              "confidence": 0.977,
+              "source": "D(1,325,678,358,678,358,691,325,691)"
+            },
+            {
+              "content": "Canadian",
+              "span": {
+                "offset": 2365,
+                "length": 8
+              },
+              "confidence": 0.974,
+              "source": "D(1,361,678,400,679,400,692,361,691)"
+            },
+            {
+              "content": "credit",
+              "span": {
+                "offset": 2374,
+                "length": 6
+              },
+              "confidence": 0.951,
+              "source": "D(1,403,679,427,679,427,692,403,692)"
+            },
+            {
+              "content": "facility",
+              "span": {
+                "offset": 2381,
+                "length": 8
+              },
+              "confidence": 0.927,
+              "source": "D(1,430,679,460,680,460,693,430,692)"
+            },
+            {
+              "content": "with",
+              "span": {
+                "offset": 2390,
+                "length": 4
+              },
+              "confidence": 0.975,
+              "source": "D(1,463,680,482,680,482,693,463,693)"
+            },
+            {
+              "content": "GE",
+              "span": {
+                "offset": 2395,
+                "length": 2
+              },
+              "confidence": 0.919,
+              "source": "D(1,485,680,499,680,499,693,485,693)"
+            },
+            {
+              "content": "Antares",
+              "span": {
+                "offset": 2398,
+                "length": 7
+              },
+              "confidence": 0.774,
+              "source": "D(1,501,680,536,681,536,694,501,693)"
+            },
+            {
+              "content": "Capital",
+              "span": {
+                "offset": 2406,
+                "length": 7
+              },
+              "confidence": 0.984,
+              "source": "D(1,63,688,94,688,94,701,63,701)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 2414,
+                "length": 1
+              },
+              "confidence": 0.998,
+              "source": "D(1,97,689,102,689,102,701,97,701)"
+            },
+            {
+              "content": "\"",
+              "span": {
+                "offset": 2415,
+                "length": 1
+              },
+              "confidence": 0.985,
+              "source": "D(1,101,689,107,689,107,701,101,701)"
+            },
+            {
+              "content": "GE",
+              "span": {
+                "offset": 2416,
+                "length": 2
+              },
+              "confidence": 0.994,
+              "source": "D(1,107,689,121,689,121,702,107,701)"
+            },
+            {
+              "content": "Antares",
+              "span": {
+                "offset": 2419,
+                "length": 7
+              },
+              "confidence": 0.973,
+              "source": "D(1,123,689,157,689,157,702,123,702)"
+            },
+            {
+              "content": "\"",
+              "span": {
+                "offset": 2426,
+                "length": 1
+              },
+              "confidence": 0.981,
+              "source": "D(1,157,689,162,689,162,702,157,702)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 2427,
+                "length": 1
+              },
+              "confidence": 0.996,
+              "source": "D(1,162,689,166,689,166,702,162,702)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 2429,
+                "length": 3
+              },
+              "confidence": 0.996,
+              "source": "D(1,169,689,185,689,185,702,169,702)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 2433,
+                "length": 1
+              },
+              "confidence": 0.997,
+              "source": "D(1,188,689,193,689,193,703,188,702)"
+            },
+            {
+              "content": "syndicate",
+              "span": {
+                "offset": 2435,
+                "length": 9
+              },
+              "confidence": 0.985,
+              "source": "D(1,195,689,236,690,236,703,195,703)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 2445,
+                "length": 2
+              },
+              "confidence": 0.995,
+              "source": "D(1,239,690,249,690,249,703,239,703)"
+            },
+            {
+              "content": "other",
+              "span": {
+                "offset": 2448,
+                "length": 5
+              },
+              "confidence": 0.991,
+              "source": "D(1,250,690,273,690,273,704,251,703)"
+            },
+            {
+              "content": "lenders",
+              "span": {
+                "offset": 2454,
+                "length": 7
+              },
+              "confidence": 0.977,
+              "source": "D(1,275,690,307,691,307,704,275,704)"
+            },
+            {
+              "content": "(",
+              "span": {
+                "offset": 2462,
+                "length": 1
+              },
+              "confidence": 0.914,
+              "source": "D(1,309,691,313,691,313,704,309,704)"
+            },
+            {
+              "content": "combined",
+              "span": {
+                "offset": 2463,
+                "length": 8
+              },
+              "confidence": 0.903,
+              "source": "D(1,313,691,354,691,354,705,313,704)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2471,
+                "length": 1
+              },
+              "confidence": 0.523,
+              "source": "D(1,353,691,356,691,356,705,353,705)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 2473,
+                "length": 3
+              },
+              "confidence": 0.983,
+              "source": "D(1,359,691,374,691,374,705,359,705)"
+            },
+            {
+              "content": "\"",
+              "span": {
+                "offset": 2477,
+                "length": 1
+              },
+              "confidence": 0.98,
+              "source": "D(1,377,692,382,692,382,705,377,705)"
+            },
+            {
+              "content": "Credit",
+              "span": {
+                "offset": 2478,
+                "length": 6
+              },
+              "confidence": 0.964,
+              "source": "D(1,382,692,408,692,408,705,382,705)"
+            },
+            {
+              "content": "Facility",
+              "span": {
+                "offset": 2485,
+                "length": 8
+              },
+              "confidence": 0.949,
+              "source": "D(1,411,692,444,692,444,706,411,705)"
+            },
+            {
+              "content": "\"",
+              "span": {
+                "offset": 2493,
+                "length": 1
+              },
+              "confidence": 0.959,
+              "source": "D(1,443,692,449,693,449,706,443,706)"
+            },
+            {
+              "content": ")",
+              "span": {
+                "offset": 2494,
+                "length": 1
+              },
+              "confidence": 0.987,
+              "source": "D(1,449,693,454,693,454,706,449,706)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2495,
+                "length": 1
+              },
+              "confidence": 0.939,
+              "source": "D(1,453,693,455,693,455,706,453,706)"
+            },
+            {
+              "content": "The",
+              "span": {
+                "offset": 2497,
+                "length": 3
+              },
+              "confidence": 0.918,
+              "source": "D(1,458,693,475,693,475,706,458,706)"
+            },
+            {
+              "content": "Credit",
+              "span": {
+                "offset": 2501,
+                "length": 6
+              },
+              "confidence": 0.917,
+              "source": "D(1,478,693,506,693,506,706,478,706)"
+            },
+            {
+              "content": "Facility",
+              "span": {
+                "offset": 2508,
+                "length": 8
+              },
+              "confidence": 0.987,
+              "source": "D(1,63,701,95,701,95,714,63,714)"
+            },
+            {
+              "content": "provides",
+              "span": {
+                "offset": 2517,
+                "length": 8
+              },
+              "confidence": 0.989,
+              "source": "D(1,98,701,135,702,135,715,98,714)"
+            },
+            {
+              "content": "for",
+              "span": {
+                "offset": 2526,
+                "length": 3
+              },
+              "confidence": 0.97,
+              "source": "D(1,138,702,151,702,151,715,138,715)"
+            },
+            {
+              "content": "a",
+              "span": {
+                "offset": 2530,
+                "length": 1
+              },
+              "confidence": 0.989,
+              "source": "D(1,153,702,158,702,158,715,154,715)"
+            },
+            {
+              "content": "cash",
+              "span": {
+                "offset": 2532,
+                "length": 4
+              },
+              "confidence": 0.978,
+              "source": "D(1,161,702,180,702,180,715,161,715)"
+            },
+            {
+              "content": "receipts",
+              "span": {
+                "offset": 2537,
+                "length": 8
+              },
+              "confidence": 0.972,
+              "source": "D(1,183,702,216,703,217,716,183,715)"
+            },
+            {
+              "content": "lock",
+              "span": {
+                "offset": 2546,
+                "length": 4
+              },
+              "confidence": 0.922,
+              "source": "D(1,219,703,238,703,238,716,219,716)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 2550,
+                "length": 1
+              },
+              "confidence": 0.992,
+              "source": "D(1,237,703,241,703,241,716,237,716)"
+            },
+            {
+              "content": "box",
+              "span": {
+                "offset": 2551,
+                "length": 3
+              },
+              "confidence": 0.945,
+              "source": "D(1,240,703,256,703,256,716,240,716)"
+            },
+            {
+              "content": "arrangement",
+              "span": {
+                "offset": 2555,
+                "length": 11
+              },
+              "confidence": 0.98,
+              "source": "D(1,259,704,313,704,313,717,259,716)"
+            },
+            {
+              "content": "that",
+              "span": {
+                "offset": 2567,
+                "length": 4
+              },
+              "confidence": 0.987,
+              "source": "D(1,315,704,333,704,333,717,315,717)"
+            },
+            {
+              "content": "gives",
+              "span": {
+                "offset": 2572,
+                "length": 5
+              },
+              "confidence": 0.983,
+              "source": "D(1,335,704,358,705,358,718,335,717)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 2578,
+                "length": 3
+              },
+              "confidence": 0.992,
+              "source": "D(1,360,705,374,705,374,718,360,718)"
+            },
+            {
+              "content": "Company",
+              "span": {
+                "offset": 2582,
+                "length": 7
+              },
+              "confidence": 0.976,
+              "source": "D(1,377,705,418,705,418,718,377,718)"
+            },
+            {
+              "content": "sole",
+              "span": {
+                "offset": 2590,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,420,705,438,706,438,718,420,718)"
+            },
+            {
+              "content": "control",
+              "span": {
+                "offset": 2595,
+                "length": 7
+              },
+              "confidence": 0.943,
+              "source": "D(1,440,706,471,706,471,719,440,718)"
+            },
+            {
+              "content": "over",
+              "span": {
+                "offset": 2603,
+                "length": 4
+              },
+              "confidence": 0.823,
+              "source": "D(1,473,706,493,706,493,719,473,719)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 2608,
+                "length": 3
+              },
+              "confidence": 0.787,
+              "source": "D(1,495,706,509,706,509,719,495,719)"
+            },
+            {
+              "content": "funds",
+              "span": {
+                "offset": 2612,
+                "length": 5
+              },
+              "confidence": 0.503,
+              "source": "D(1,511,706,537,707,537,719,511,719)"
+            },
+            {
+              "content": "in",
+              "span": {
+                "offset": 2618,
+                "length": 2
+              },
+              "confidence": 0.984,
+              "source": "D(1,62,715,71,715,71,728,63,728)"
+            },
+            {
+              "content": "lock",
+              "span": {
+                "offset": 2621,
+                "length": 4
+              },
+              "confidence": 0.979,
+              "source": "D(1,75,715,92,715,92,728,75,728)"
+            },
+            {
+              "content": "-",
+              "span": {
+                "offset": 2625,
+                "length": 1
+              },
+              "confidence": 0.995,
+              "source": "D(1,92,715,96,715,96,728,92,728)"
+            },
+            {
+              "content": "box",
+              "span": {
+                "offset": 2626,
+                "length": 3
+              },
+              "confidence": 0.88,
+              "source": "D(1,95,715,111,715,111,728,95,728)"
+            },
+            {
+              "content": "accounts",
+              "span": {
+                "offset": 2630,
+                "length": 8
+              },
+              "confidence": 0.977,
+              "source": "D(1,115,715,152,715,152,728,115,728)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2638,
+                "length": 1
+              },
+              "confidence": 0.846,
+              "source": "D(1,152,715,155,715,155,728,152,728)"
+            },
+            {
+              "content": "unless",
+              "span": {
+                "offset": 2640,
+                "length": 6
+              },
+              "confidence": 0.973,
+              "source": "D(1,158,716,184,716,184,729,158,728)"
+            },
+            {
+              "content": "excess",
+              "span": {
+                "offset": 2647,
+                "length": 6
+              },
+              "confidence": 0.98,
+              "source": "D(1,186,716,215,716,215,729,186,729)"
+            },
+            {
+              "content": "availability",
+              "span": {
+                "offset": 2654,
+                "length": 12
+              },
+              "confidence": 0.943,
+              "source": "D(1,218,716,265,717,265,729,218,729)"
+            },
+            {
+              "content": "is",
+              "span": {
+                "offset": 2667,
+                "length": 2
+              },
+              "confidence": 0.995,
+              "source": "D(1,267,717,275,717,275,729,267,729)"
+            },
+            {
+              "content": "less",
+              "span": {
+                "offset": 2670,
+                "length": 4
+              },
+              "confidence": 0.987,
+              "source": "D(1,278,717,294,717,294,730,278,729)"
+            },
+            {
+              "content": "than",
+              "span": {
+                "offset": 2675,
+                "length": 4
+              },
+              "confidence": 0.992,
+              "source": "D(1,297,717,316,717,316,730,298,730)"
+            },
+            {
+              "content": "$",
+              "span": {
+                "offset": 2680,
+                "length": 1
+              },
+              "confidence": 0.938,
+              "source": "D(1,319,717,325,717,325,730,319,730)"
+            },
+            {
+              "content": "10",
+              "span": {
+                "offset": 2681,
+                "length": 2
+              },
+              "confidence": 0.913,
+              "source": "D(1,326,717,335,717,335,730,326,730)"
+            },
+            {
+              "content": "million",
+              "span": {
+                "offset": 2684,
+                "length": 7
+              },
+              "confidence": 0.943,
+              "source": "D(1,338,717,368,718,368,730,338,730)"
+            },
+            {
+              "content": "or",
+              "span": {
+                "offset": 2692,
+                "length": 2
+              },
+              "confidence": 0.991,
+              "source": "D(1,371,718,381,718,381,731,371,731)"
+            },
+            {
+              "content": "an",
+              "span": {
+                "offset": 2695,
+                "length": 2
+              },
+              "confidence": 0.982,
+              "source": "D(1,383,718,393,718,393,731,383,731)"
+            },
+            {
+              "content": "event",
+              "span": {
+                "offset": 2698,
+                "length": 5
+              },
+              "confidence": 0.97,
+              "source": "D(1,396,718,420,718,420,731,396,731)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 2704,
+                "length": 2
+              },
+              "confidence": 0.989,
+              "source": "D(1,423,718,433,719,433,731,423,731)"
+            },
+            {
+              "content": "default",
+              "span": {
+                "offset": 2707,
+                "length": 7
+              },
+              "confidence": 0.919,
+              "source": "D(1,434,719,464,719,464,732,435,731)"
+            },
+            {
+              "content": "occurs",
+              "span": {
+                "offset": 2715,
+                "length": 6
+              },
+              "confidence": 0.934,
+              "source": "D(1,467,719,495,719,495,732,467,732)"
+            },
+            {
+              "content": ",",
+              "span": {
+                "offset": 2721,
+                "length": 1
+              },
+              "confidence": 0.716,
+              "source": "D(1,494,719,497,720,497,732,494,732)"
+            },
+            {
+              "content": "in",
+              "span": {
+                "offset": 2723,
+                "length": 2
+              },
+              "confidence": 0.974,
+              "source": "D(1,501,720,509,720,509,733,501,732)"
+            },
+            {
+              "content": "which",
+              "span": {
+                "offset": 2726,
+                "length": 5
+              },
+              "confidence": 0.8,
+              "source": "D(1,512,720,540,720,540,733,512,733)"
+            },
+            {
+              "content": "case",
+              "span": {
+                "offset": 2732,
+                "length": 4
+              },
+              "confidence": 0.985,
+              "source": "D(1,62,728,81,728,81,741,62,741)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 2737,
+                "length": 3
+              },
+              "confidence": 0.993,
+              "source": "D(1,84,728,97,728,97,741,84,741)"
+            },
+            {
+              "content": "senior",
+              "span": {
+                "offset": 2741,
+                "length": 6
+              },
+              "confidence": 0.98,
+              "source": "D(1,100,728,126,728,127,741,100,741)"
+            },
+            {
+              "content": "secured",
+              "span": {
+                "offset": 2748,
+                "length": 7
+              },
+              "confidence": 0.972,
+              "source": "D(1,129,728,162,729,162,741,130,741)"
+            },
+            {
+              "content": "lenders",
+              "span": {
+                "offset": 2756,
+                "length": 7
+              },
+              "confidence": 0.985,
+              "source": "D(1,165,729,195,729,195,742,165,741)"
+            },
+            {
+              "content": "would",
+              "span": {
+                "offset": 2764,
+                "length": 5
+              },
+              "confidence": 0.993,
+              "source": "D(1,198,729,224,729,225,742,198,742)"
+            },
+            {
+              "content": "have",
+              "span": {
+                "offset": 2770,
+                "length": 4
+              },
+              "confidence": 0.994,
+              "source": "D(1,227,729,248,729,248,742,227,742)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 2775,
+                "length": 3
+              },
+              "confidence": 0.994,
+              "source": "D(1,250,729,264,730,264,742,250,742)"
+            },
+            {
+              "content": "right",
+              "span": {
+                "offset": 2779,
+                "length": 5
+              },
+              "confidence": 0.983,
+              "source": "D(1,267,730,288,730,288,743,267,743)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 2785,
+                "length": 2
+              },
+              "confidence": 0.992,
+              "source": "D(1,290,730,299,730,299,743,290,743)"
+            },
+            {
+              "content": "take",
+              "span": {
+                "offset": 2788,
+                "length": 4
+              },
+              "confidence": 0.977,
+              "source": "D(1,301,730,320,730,320,743,301,743)"
+            },
+            {
+              "content": "control",
+              "span": {
+                "offset": 2793,
+                "length": 7
+              },
+              "confidence": 0.942,
+              "source": "D(1,323,730,352,731,352,744,323,743)"
+            },
+            {
+              "content": "over",
+              "span": {
+                "offset": 2801,
+                "length": 4
+              },
+              "confidence": 0.97,
+              "source": "D(1,355,731,374,731,374,744,355,744)"
+            },
+            {
+              "content": "such",
+              "span": {
+                "offset": 2806,
+                "length": 4
+              },
+              "confidence": 0.981,
+              "source": "D(1,377,731,397,731,397,744,377,744)"
+            },
+            {
+              "content": "funds",
+              "span": {
+                "offset": 2811,
+                "length": 5
+              },
+              "confidence": 0.963,
+              "source": "D(1,399,731,423,732,423,745,399,744)"
+            },
+            {
+              "content": "and",
+              "span": {
+                "offset": 2817,
+                "length": 3
+              },
+              "confidence": 0.982,
+              "source": "D(1,426,732,441,732,442,745,426,745)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 2821,
+                "length": 2
+              },
+              "confidence": 0.964,
+              "source": "D(1,444,732,453,732,453,745,444,745)"
+            },
+            {
+              "content": "apply",
+              "span": {
+                "offset": 2824,
+                "length": 5
+              },
+              "confidence": 0.922,
+              "source": "D(1,456,732,480,733,480,746,456,745)"
+            },
+            {
+              "content": "such",
+              "span": {
+                "offset": 2830,
+                "length": 4
+              },
+              "confidence": 0.919,
+              "source": "D(1,483,733,502,733,502,746,483,746)"
+            },
+            {
+              "content": "funds",
+              "span": {
+                "offset": 2835,
+                "length": 5
+              },
+              "confidence": 0.349,
+              "source": "D(1,505,733,530,734,530,746,505,746)"
+            },
+            {
+              "content": "to",
+              "span": {
+                "offset": 2841,
+                "length": 2
+              },
+              "confidence": 0.956,
+              "source": "D(1,61,742,71,742,71,754,61,754)"
+            },
+            {
+              "content": "repayment",
+              "span": {
+                "offset": 2844,
+                "length": 9
+              },
+              "confidence": 0.965,
+              "source": "D(1,73,742,119,742,119,754,73,754)"
+            },
+            {
+              "content": "of",
+              "span": {
+                "offset": 2854,
+                "length": 2
+              },
+              "confidence": 0.995,
+              "source": "D(1,122,742,132,742,132,754,122,754)"
+            },
+            {
+              "content": "the",
+              "span": {
+                "offset": 2857,
+                "length": 3
+              },
+              "confidence": 0.995,
+              "source": "D(1,133,742,147,742,147,754,133,754)"
+            },
+            {
+              "content": "senior",
+              "span": {
+                "offset": 2861,
+                "length": 6
+              },
+              "confidence": 0.914,
+              "source": "D(1,149,742,175,742,175,755,149,754)"
+            },
+            {
+              "content": "debt",
+              "span": {
+                "offset": 2868,
+                "length": 4
+              },
+              "confidence": 0.981,
+              "source": "D(1,177,742,197,742,197,755,177,755)"
+            },
+            {
+              "content": ".",
+              "span": {
+                "offset": 2872,
+                "length": 1
+              },
+              "confidence": 0.959,
+              "source": "D(1,196,742,201,742,201,755,196,755)"
+            },
+            {
+              "content": "52",
+              "span": {
+                "offset": 2892,
+                "length": 2
+              },
+              "confidence": 0.996,
+              "source": "D(1,293,787,307,787,307,799,293,799)"
+            }
+          ],
+          "lines": [
+            {
+              "content": "Beacon Roofing Supply, Inc.",
+              "source": "D(1,247,77,377,79,376,93,247,91)",
+              "span": {
+                "offset": 2,
+                "length": 27
+              }
+            },
+            {
+              "content": "Notes to Consolidated Financial Statements",
+              "source": "D(1,213,98,410,100,410,113,212,110)",
+              "span": {
+                "offset": 30,
+                "length": 42
+              }
+            },
+            {
+              "content": "Year Ended September 30, 2010",
+              "source": "D(1,239,109,384,110,384,122,239,121)",
+              "span": {
+                "offset": 73,
+                "length": 29
+              }
+            },
+            {
+              "content": "(dollars in thousands, except per share data or as otherwise indicated)",
+              "source": "D(1,151,118,470,122,470,135,151,131)",
+              "span": {
+                "offset": 103,
+                "length": 71
+              }
+            },
+            {
+              "content": "5. Prepaid Expenses and Other Current Assets",
+              "source": "D(1,72,137,286,139,286,153,72,151)",
+              "span": {
+                "offset": 180,
+                "length": 44
+              }
+            },
+            {
+              "content": "The significant components of prepaid expenses and other current assets were as follows:",
+              "source": "D(1,92,158,476,162,476,176,92,171)",
+              "span": {
+                "offset": 226,
+                "length": 88
+              }
+            },
+            {
+              "content": "September 30,",
+              "source": "D(1,405,185,459,185,459,197,405,196)",
+              "span": {
+                "offset": 344,
+                "length": 13
+              }
+            },
+            {
+              "content": "2010",
+              "source": "D(1,423,194,441,195,441,204,423,203)",
+              "span": {
+                "offset": 358,
+                "length": 4
+              }
+            },
+            {
+              "content": "September 30.",
+              "source": "D(1,470,186,523,186,523,197,470,196)",
+              "span": {
+                "offset": 372,
+                "length": 13
+              }
+            },
+            {
+              "content": "2009",
+              "source": "D(1,488,195,506,195,506,204,488,204)",
+              "span": {
+                "offset": 386,
+                "length": 4
+              }
+            },
+            {
+              "content": "Vendor rebates",
+              "source": "D(1,93,202,159,203,159,215,93,214)",
+              "span": {
+                "offset": 411,
+                "length": 14
+              }
+            },
+            {
+              "content": "$34.538",
+              "source": "D(1,414,206,450,207,449,218,414,218)",
+              "span": {
+                "offset": 435,
+                "length": 7
+              }
+            },
+            {
+              "content": "$38,857",
+              "source": "D(1,479,207,514,207,514,218,479,218)",
+              "span": {
+                "offset": 452,
+                "length": 7
+              }
+            },
+            {
+              "content": "Refundable income taxes",
+              "source": "D(1,92,215,202,217,202,229,92,228)",
+              "span": {
+                "offset": 480,
+                "length": 23
+              }
+            },
+            {
+              "content": "3,846",
+              "source": "D(1,424,220,449,220,449,231,424,231)",
+              "span": {
+                "offset": 513,
+                "length": 5
+              }
+            },
+            {
+              "content": "3,545",
+              "source": "D(1,489,221,514,221,514,232,489,232)",
+              "span": {
+                "offset": 528,
+                "length": 5
+              }
+            },
+            {
+              "content": "Other.",
+              "source": "D(1,92,230,120,230,119,241,92,241)",
+              "span": {
+                "offset": 554,
+                "length": 6
+              }
+            },
+            {
+              "content": "4,731",
+              "source": "D(1,424,234,447,234,447,245,424,245)",
+              "span": {
+                "offset": 570,
+                "length": 5
+              }
+            },
+            {
+              "content": "10,312",
+              "source": "D(1,486,235,514,235,514,246,486,246)",
+              "span": {
+                "offset": 585,
+                "length": 6
+              }
+            },
+            {
+              "content": "$43,115",
+              "source": "D(1,413,248,448,248,448,259,413,258)",
+              "span": {
+                "offset": 622,
+                "length": 7
+              }
+            },
+            {
+              "content": "$52,714",
+              "source": "D(1,479,249,514,249,513,260,479,260)",
+              "span": {
+                "offset": 639,
+                "length": 7
+              }
+            },
+            {
+              "content": "6. Property and Equipment, net",
+              "source": "D(1,70,266,217,268,217,281,70,280)",
+              "span": {
+                "offset": 672,
+                "length": 30
+              }
+            },
+            {
+              "content": "Property and equipment, net, consisted of the following:",
+              "source": "D(1,90,287,334,289,334,303,90,301)",
+              "span": {
+                "offset": 704,
+                "length": 56
+              }
+            },
+            {
+              "content": "September 30,",
+              "source": "D(1,403,314,456,314,456,325,403,325)",
+              "span": {
+                "offset": 790,
+                "length": 13
+              }
+            },
+            {
+              "content": "2010",
+              "source": "D(1,421,323,440,324,439,333,421,332)",
+              "span": {
+                "offset": 804,
+                "length": 4
+              }
+            },
+            {
+              "content": "September 30.",
+              "source": "D(1,469,315,522,315,522,326,469,326)",
+              "span": {
+                "offset": 818,
+                "length": 13
+              }
+            },
+            {
+              "content": "2009",
+              "source": "D(1,487,324,504,324,504,333,487,333)",
+              "span": {
+                "offset": 832,
+                "length": 4
+              }
+            },
+            {
+              "content": "Land",
+              "source": "D(1,90,332,115,332,115,343,90,343)",
+              "span": {
+                "offset": 857,
+                "length": 4
+              }
+            },
+            {
+              "content": "S",
+              "source": "D(1,409,336,416,336,416,346,409,346)",
+              "span": {
+                "offset": 871,
+                "length": 1
+              }
+            },
+            {
+              "content": "3,056",
+              "source": "D(1,424,336,450,336,450,347,424,347)",
+              "span": {
+                "offset": 873,
+                "length": 5
+              }
+            },
+            {
+              "content": "$ 3,190",
+              "source": "D(1,474,337,516,337,516,348,475,348)",
+              "span": {
+                "offset": 888,
+                "length": 7
+              }
+            },
+            {
+              "content": "Buildings and leasehold improvements",
+              "source": "D(1,90,345,258,346,258,359,90,358)",
+              "span": {
+                "offset": 916,
+                "length": 36
+              }
+            },
+            {
+              "content": "19,987",
+              "source": "D(1,420,349,449,349,449,360,420,360)",
+              "span": {
+                "offset": 962,
+                "length": 6
+              }
+            },
+            {
+              "content": "18,725",
+              "source": "D(1,486,350,515,350,515,361,486,361)",
+              "span": {
+                "offset": 978,
+                "length": 6
+              }
+            },
+            {
+              "content": "Equipment",
+              "source": "D(1,90,359,139,359,139,372,90,371)",
+              "span": {
+                "offset": 1005,
+                "length": 9
+              }
+            },
+            {
+              "content": "107.548",
+              "source": "D(1,415,362,450,363,450,375,415,374)",
+              "span": {
+                "offset": 1024,
+                "length": 7
+              }
+            },
+            {
+              "content": "100,731",
+              "source": "D(1,481,363,514,364,514,375,481,375)",
+              "span": {
+                "offset": 1041,
+                "length": 7
+              }
+            },
+            {
+              "content": "Furniture and fixtures",
+              "source": "D(1,89,372,185,373,185,385,89,385)",
+              "span": {
+                "offset": 1069,
+                "length": 22
+              }
+            },
+            {
+              "content": "10.936",
+              "source": "D(1,420,376,449,376,449,388,420,387)",
+              "span": {
+                "offset": 1101,
+                "length": 6
+              }
+            },
+            {
+              "content": "10,478",
+              "source": "D(1,486,377,514,377,514,389,486,388)",
+              "span": {
+                "offset": 1117,
+                "length": 6
+              }
+            },
+            {
+              "content": "141,527",
+              "source": "D(1,414,391,448,391,448,402,414,402)",
+              "span": {
+                "offset": 1154,
+                "length": 7
+              }
+            },
+            {
+              "content": "133,124",
+              "source": "D(1,480,391,515,392,514,403,480,402)",
+              "span": {
+                "offset": 1171,
+                "length": 7
+              }
+            },
+            {
+              "content": "Less: accumulated depreciation and amortization",
+              "source": "D(1,89,399,300,401,300,415,89,412)",
+              "span": {
+                "offset": 1199,
+                "length": 47
+              }
+            },
+            {
+              "content": "93,776",
+              "source": "D(1,418,404,449,404,449,416,418,415)",
+              "span": {
+                "offset": 1256,
+                "length": 6
+              }
+            },
+            {
+              "content": "80.159",
+              "source": "D(1,485,405,514,405,514,416,485,416)",
+              "span": {
+                "offset": 1272,
+                "length": 6
+              }
+            },
+            {
+              "content": "$ 47,751",
+              "source": "D(1,408,418,448,418,447,430,408,429)",
+              "span": {
+                "offset": 1309,
+                "length": 8
+              }
+            },
+            {
+              "content": "$ 52,965",
+              "source": "D(1,474,419,514,419,514,431,474,431)",
+              "span": {
+                "offset": 1327,
+                "length": 8
+              }
+            },
+            {
+              "content": "Depreciation and amortization of property and equipment totaled $17,077, $17.389 and $18,381 in 2010.",
+              "source": "D(1,88,436,538,441,538,455,88,451)",
+              "span": {
+                "offset": 1358,
+                "length": 101
+              }
+            },
+            {
+              "content": "2009 and 2008, respectively.",
+              "source": "D(1,67,449,191,451,191,465,67,463)",
+              "span": {
+                "offset": 1460,
+                "length": 28
+              }
+            },
+            {
+              "content": "7. Acerued Expenses",
+              "source": "D(1,67,472,163,472,163,486,67,485)",
+              "span": {
+                "offset": 1494,
+                "length": 19
+              }
+            },
+            {
+              "content": "The significant components of accrued expenses were as follows:",
+              "source": "D(1,87,493,370,495,369,510,87,507)",
+              "span": {
+                "offset": 1515,
+                "length": 63
+              }
+            },
+            {
+              "content": "September 30,",
+              "source": "D(1,399,520,453,520,453,531,399,531)",
+              "span": {
+                "offset": 1636,
+                "length": 13
+              }
+            },
+            {
+              "content": "2010",
+              "source": "D(1,418,529,436,529,436,539,418,538)",
+              "span": {
+                "offset": 1650,
+                "length": 4
+              }
+            },
+            {
+              "content": "September 30,",
+              "source": "D(1,466,521,519,521,519,532,466,532)",
+              "span": {
+                "offset": 1664,
+                "length": 13
+              }
+            },
+            {
+              "content": "2009",
+              "source": "D(1,484,530,502,530,502,539,484,539)",
+              "span": {
+                "offset": 1678,
+                "length": 4
+              }
+            },
+            {
+              "content": "Uninvoiced inventory receipts",
+              "source": "D(1,87,536,218,538,218,552,86,550)",
+              "span": {
+                "offset": 1715,
+                "length": 29
+              }
+            },
+            {
+              "content": "$ 7,739",
+              "source": "D(1,408,542,444,542,444,553,408,553)",
+              "span": {
+                "offset": 1754,
+                "length": 7
+              }
+            },
+            {
+              "content": "$19,970",
+              "source": "D(1,474,543,510,543,510,553,474,553)",
+              "span": {
+                "offset": 1771,
+                "length": 7
+              }
+            },
+            {
+              "content": "Employee-related accruals.",
+              "source": "D(1,87,551,201,552,201,565,86,564)",
+              "span": {
+                "offset": 1811,
+                "length": 26
+              }
+            },
+            {
+              "content": "13,498",
+              "source": "D(1,414,555,444,555,444,567,414,567)",
+              "span": {
+                "offset": 1847,
+                "length": 6
+              }
+            },
+            {
+              "content": "18,736",
+              "source": "D(1,481,556,510,556,510,567,481,567)",
+              "span": {
+                "offset": 1863,
+                "length": 6
+              }
+            },
+            {
+              "content": "Unrealized loss on financial derivatives.",
+              "source": "D(1,86,564,258,565,257,578,86,577)",
+              "span": {
+                "offset": 1900,
+                "length": 41
+              }
+            },
+            {
+              "content": "11,084",
+              "source": "D(1,414,569,444,569,444,580,414,580)",
+              "span": {
+                "offset": 1951,
+                "length": 6
+              }
+            },
+            {
+              "content": "12,348",
+              "source": "D(1,480,569,509,569,509,580,480,580)",
+              "span": {
+                "offset": 1967,
+                "length": 6
+              }
+            },
+            {
+              "content": "Other.",
+              "source": "D(1,85,578,114,578,114,590,85,590)",
+              "span": {
+                "offset": 2004,
+                "length": 6
+              }
+            },
+            {
+              "content": "17.811",
+              "source": "D(1,414,582,442,583,442,594,414,593)",
+              "span": {
+                "offset": 2020,
+                "length": 6
+              }
+            },
+            {
+              "content": "24,482",
+              "source": "D(1,478,582,509,583,509,594,478,594)",
+              "span": {
+                "offset": 2036,
+                "length": 6
+              }
+            },
+            {
+              "content": "$50,132",
+              "source": "D(1,408,596,443,596,443,607,408,607)",
+              "span": {
+                "offset": 2085,
+                "length": 7
+              }
+            },
+            {
+              "content": "$75,536",
+              "source": "D(1,474,597,509,597,509,608,474,608)",
+              "span": {
+                "offset": 2102,
+                "length": 7
+              }
+            },
+            {
+              "content": "8. Financing Arrangements",
+              "source": "D(1,64,614,189,616,189,629,64,628)",
+              "span": {
+                "offset": 2135,
+                "length": 25
+              }
+            },
+            {
+              "content": "Senior Secured Credit Facilities",
+              "source": "D(1,84,641,227,642,227,655,84,655)",
+              "span": {
+                "offset": 2167,
+                "length": 32
+              }
+            },
+            {
+              "content": "On November 2, 2006, the Company entered into an amended and restated seven-year $500 million",
+              "source": "D(1,84,662,514,667,514,680,84,675)",
+              "span": {
+                "offset": 2201,
+                "length": 93
+              }
+            },
+            {
+              "content": "U.S. senior secured credit facility and a CS15 million senior secured Canadian credit facility with GE Antares",
+              "source": "D(1,64,675,536,680,536,694,64,688)",
+              "span": {
+                "offset": 2295,
+                "length": 110
+              }
+            },
+            {
+              "content": "Capital (\"GE Antares\") and a syndicate of other lenders (combined, the \"Credit Facility\"). The Credit",
+              "source": "D(1,63,688,506,693,506,706,63,701)",
+              "span": {
+                "offset": 2406,
+                "length": 101
+              }
+            },
+            {
+              "content": "Facility provides for a cash receipts lock-box arrangement that gives the Company sole control over the funds",
+              "source": "D(1,63,701,537,707,537,720,63,714)",
+              "span": {
+                "offset": 2508,
+                "length": 109
+              }
+            },
+            {
+              "content": "in lock-box accounts, unless excess availability is less than $10 million or an event of default occurs, in which",
+              "source": "D(1,62,714,540,720,540,733,62,728)",
+              "span": {
+                "offset": 2618,
+                "length": 113
+              }
+            },
+            {
+              "content": "case the senior secured lenders would have the right to take control over such funds and to apply such funds",
+              "source": "D(1,62,727,531,733,530,746,62,741)",
+              "span": {
+                "offset": 2732,
+                "length": 108
+              }
+            },
+            {
+              "content": "to repayment of the senior debt.",
+              "source": "D(1,61,741,201,742,201,755,61,754)",
+              "span": {
+                "offset": 2841,
+                "length": 32
+              }
+            },
+            {
+              "content": "52",
+              "source": "D(1,293,787,307,787,307,799,293,799)",
+              "span": {
+                "offset": 2892,
+                "length": 2
+              }
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "role": "title",
+          "content": "Beacon Roofing Supply, Inc. Notes to Consolidated Financial Statements Year Ended September 30, 2010 (dollars in thousands, except per share data or as otherwise indicated)",
+          "source": "D(1,152,76,470,80,470,135,151,131)",
+          "span": {
+            "offset": 0,
+            "length": 174
+          }
+        },
+        {
+          "role": "sectionHeading",
+          "content": "5. Prepaid Expenses and Other Current Assets",
+          "source": "D(1,72,137,286,139,286,153,72,151)",
+          "span": {
+            "offset": 177,
+            "length": 47
+          }
+        },
+        {
+          "content": "The significant components of prepaid expenses and other current assets were as follows:",
+          "source": "D(1,92,158,476,162,476,176,92,171)",
+          "span": {
+            "offset": 226,
+            "length": 88
+          }
+        },
+        {
+          "content": "September 30, 2010",
+          "source": "D(1,405,184,459,186,458,204,404,203)",
+          "span": {
+            "offset": 344,
+            "length": 18
+          }
+        },
+        {
+          "content": "September 30. 2009",
+          "source": "D(1,470,185,524,186,523,205,469,203)",
+          "span": {
+            "offset": 372,
+            "length": 18
+          }
+        },
+        {
+          "content": "Vendor rebates",
+          "source": "D(1,93,202,159,203,159,215,92,214)",
+          "span": {
+            "offset": 411,
+            "length": 14
+          }
+        },
+        {
+          "content": "$34.538",
+          "source": "D(1,414,207,450,207,449,218,414,218)",
+          "span": {
+            "offset": 435,
+            "length": 7
+          }
+        },
+        {
+          "content": "$38,857",
+          "source": "D(1,479,207,514,207,514,219,479,218)",
+          "span": {
+            "offset": 452,
+            "length": 7
+          }
+        },
+        {
+          "content": "Refundable income taxes",
+          "source": "D(1,92,215,202,216,202,229,92,228)",
+          "span": {
+            "offset": 480,
+            "length": 23
+          }
+        },
+        {
+          "content": "3,846",
+          "source": "D(1,424,220,449,220,449,231,424,231)",
+          "span": {
+            "offset": 513,
+            "length": 5
+          }
+        },
+        {
+          "content": "3,545",
+          "source": "D(1,489,221,514,221,514,232,489,232)",
+          "span": {
+            "offset": 528,
+            "length": 5
+          }
+        },
+        {
+          "content": "Other.",
+          "source": "D(1,92,230,120,230,119,241,91,241)",
+          "span": {
+            "offset": 554,
+            "length": 6
+          }
+        },
+        {
+          "content": "4,731",
+          "source": "D(1,424,234,448,234,447,245,424,245)",
+          "span": {
+            "offset": 570,
+            "length": 5
+          }
+        },
+        {
+          "content": "10,312",
+          "source": "D(1,486,235,514,235,514,246,486,246)",
+          "span": {
+            "offset": 585,
+            "length": 6
+          }
+        },
+        {
+          "content": "$43,115",
+          "source": "D(1,413,248,448,248,448,259,413,258)",
+          "span": {
+            "offset": 622,
+            "length": 7
+          }
+        },
+        {
+          "content": "$52,714",
+          "source": "D(1,479,249,513,249,513,260,479,260)",
+          "span": {
+            "offset": 639,
+            "length": 7
+          }
+        },
+        {
+          "role": "sectionHeading",
+          "content": "6. Property and Equipment, net",
+          "source": "D(1,70,266,217,268,217,281,70,280)",
+          "span": {
+            "offset": 669,
+            "length": 33
+          }
+        },
+        {
+          "content": "Property and equipment, net, consisted of the following:",
+          "source": "D(1,90,287,334,289,334,303,90,301)",
+          "span": {
+            "offset": 704,
+            "length": 56
+          }
+        },
+        {
+          "content": "September 30, 2010",
+          "source": "D(1,403,314,456,314,456,333,402,333)",
+          "span": {
+            "offset": 790,
+            "length": 18
+          }
+        },
+        {
+          "content": "September 30. 2009",
+          "source": "D(1,469,315,522,315,522,333,469,333)",
+          "span": {
+            "offset": 818,
+            "length": 18
+          }
+        },
+        {
+          "content": "Land",
+          "source": "D(1,90,332,115,332,115,343,90,343)",
+          "span": {
+            "offset": 857,
+            "length": 4
+          }
+        },
+        {
+          "content": "S 3,056",
+          "source": "D(1,409,336,450,336,450,347,409,347)",
+          "span": {
+            "offset": 871,
+            "length": 7
+          }
+        },
+        {
+          "content": "$ 3,190",
+          "source": "D(1,474,337,516,337,516,348,475,348)",
+          "span": {
+            "offset": 888,
+            "length": 7
+          }
+        },
+        {
+          "content": "Buildings and leasehold improvements",
+          "source": "D(1,90,345,258,347,258,359,90,358)",
+          "span": {
+            "offset": 916,
+            "length": 36
+          }
+        },
+        {
+          "content": "19,987",
+          "source": "D(1,420,349,449,349,449,360,420,360)",
+          "span": {
+            "offset": 962,
+            "length": 6
+          }
+        },
+        {
+          "content": "18,725",
+          "source": "D(1,486,350,515,350,515,361,486,361)",
+          "span": {
+            "offset": 978,
+            "length": 6
+          }
+        },
+        {
+          "content": "Equipment",
+          "source": "D(1,90,359,139,359,139,372,90,371)",
+          "span": {
+            "offset": 1005,
+            "length": 9
+          }
+        },
+        {
+          "content": "107.548",
+          "source": "D(1,415,363,450,363,450,375,415,374)",
+          "span": {
+            "offset": 1024,
+            "length": 7
+          }
+        },
+        {
+          "content": "100,731",
+          "source": "D(1,481,364,514,364,514,375,481,375)",
+          "span": {
+            "offset": 1041,
+            "length": 7
+          }
+        },
+        {
+          "content": "Furniture and fixtures",
+          "source": "D(1,89,372,185,373,185,385,89,385)",
+          "span": {
+            "offset": 1069,
+            "length": 22
+          }
+        },
+        {
+          "content": "10.936",
+          "source": "D(1,420,376,450,376,449,387,420,386)",
+          "span": {
+            "offset": 1101,
+            "length": 6
+          }
+        },
+        {
+          "content": "10,478",
+          "source": "D(1,486,377,514,377,514,388,486,387)",
+          "span": {
+            "offset": 1117,
+            "length": 6
+          }
+        },
+        {
+          "content": "141,527",
+          "source": "D(1,414,391,448,391,448,402,414,402)",
+          "span": {
+            "offset": 1154,
+            "length": 7
+          }
+        },
+        {
+          "content": "133,124",
+          "source": "D(1,480,391,515,392,514,403,480,402)",
+          "span": {
+            "offset": 1171,
+            "length": 7
+          }
+        },
+        {
+          "content": "Less: accumulated depreciation and amortization",
+          "source": "D(1,89,399,300,401,300,415,89,412)",
+          "span": {
+            "offset": 1199,
+            "length": 47
+          }
+        },
+        {
+          "content": "93,776",
+          "source": "D(1,418,404,450,404,449,416,418,415)",
+          "span": {
+            "offset": 1256,
+            "length": 6
+          }
+        },
+        {
+          "content": "80.159",
+          "source": "D(1,485,405,514,405,514,416,485,416)",
+          "span": {
+            "offset": 1272,
+            "length": 6
+          }
+        },
+        {
+          "content": "$ 47,751",
+          "source": "D(1,408,418,448,419,447,431,408,429)",
+          "span": {
+            "offset": 1309,
+            "length": 8
+          }
+        },
+        {
+          "content": "$ 52,965",
+          "source": "D(1,474,419,514,420,514,431,474,431)",
+          "span": {
+            "offset": 1327,
+            "length": 8
+          }
+        },
+        {
+          "content": "Depreciation and amortization of property and equipment totaled $17,077, $17.389 and $18,381 in 2010. 2009 and 2008, respectively.",
+          "source": "D(1,67,436,538,441,538,468,67,464)",
+          "span": {
+            "offset": 1358,
+            "length": 130
+          }
+        },
+        {
+          "role": "sectionHeading",
+          "content": "7. Acerued Expenses",
+          "source": "D(1,67,472,163,472,163,486,67,485)",
+          "span": {
+            "offset": 1491,
+            "length": 22
+          }
+        },
+        {
+          "content": "The significant components of accrued expenses were as follows:",
+          "source": "D(1,87,493,370,495,369,510,87,507)",
+          "span": {
+            "offset": 1515,
+            "length": 63
+          }
+        },
+        {
+          "content": "September 30, 2010",
+          "source": "D(1,399,520,453,520,453,539,399,539)",
+          "span": {
+            "offset": 1636,
+            "length": 18
+          }
+        },
+        {
+          "content": "September 30, 2009",
+          "source": "D(1,466,521,519,521,519,539,466,539)",
+          "span": {
+            "offset": 1664,
+            "length": 18
+          }
+        },
+        {
+          "content": "Uninvoiced inventory receipts",
+          "source": "D(1,87,536,218,538,218,552,86,550)",
+          "span": {
+            "offset": 1715,
+            "length": 29
+          }
+        },
+        {
+          "content": "$ 7,739",
+          "source": "D(1,408,542,444,542,444,553,408,553)",
+          "span": {
+            "offset": 1754,
+            "length": 7
+          }
+        },
+        {
+          "content": "$19,970",
+          "source": "D(1,474,543,510,543,510,553,474,553)",
+          "span": {
+            "offset": 1771,
+            "length": 7
+          }
+        },
+        {
+          "content": "Employee-related accruals.",
+          "source": "D(1,87,551,201,552,201,565,86,564)",
+          "span": {
+            "offset": 1811,
+            "length": 26
+          }
+        },
+        {
+          "content": "13,498",
+          "source": "D(1,414,555,444,556,444,567,414,567)",
+          "span": {
+            "offset": 1847,
+            "length": 6
+          }
+        },
+        {
+          "content": "18,736",
+          "source": "D(1,481,556,510,556,510,567,481,567)",
+          "span": {
+            "offset": 1863,
+            "length": 6
+          }
+        },
+        {
+          "content": "Unrealized loss on financial derivatives.",
+          "source": "D(1,86,564,258,565,257,578,86,577)",
+          "span": {
+            "offset": 1900,
+            "length": 41
+          }
+        },
+        {
+          "content": "11,084",
+          "source": "D(1,414,568,444,569,444,580,414,580)",
+          "span": {
+            "offset": 1951,
+            "length": 6
+          }
+        },
+        {
+          "content": "12,348",
+          "source": "D(1,480,569,509,569,509,580,480,580)",
+          "span": {
+            "offset": 1967,
+            "length": 6
+          }
+        },
+        {
+          "content": "Other.",
+          "source": "D(1,85,578,114,578,114,590,85,589)",
+          "span": {
+            "offset": 2004,
+            "length": 6
+          }
+        },
+        {
+          "content": "17.811",
+          "source": "D(1,414,582,442,583,442,594,414,593)",
+          "span": {
+            "offset": 2020,
+            "length": 6
+          }
+        },
+        {
+          "content": "24,482",
+          "source": "D(1,478,583,509,583,509,594,478,594)",
+          "span": {
+            "offset": 2036,
+            "length": 6
+          }
+        },
+        {
+          "content": "$50,132",
+          "source": "D(1,408,596,443,596,443,607,408,607)",
+          "span": {
+            "offset": 2085,
+            "length": 7
+          }
+        },
+        {
+          "content": "$75,536",
+          "source": "D(1,474,597,509,597,509,608,474,608)",
+          "span": {
+            "offset": 2102,
+            "length": 7
+          }
+        },
+        {
+          "role": "sectionHeading",
+          "content": "8. Financing Arrangements",
+          "source": "D(1,64,614,189,616,189,629,64,628)",
+          "span": {
+            "offset": 2132,
+            "length": 28
+          }
+        },
+        {
+          "role": "sectionHeading",
+          "content": "Senior Secured Credit Facilities",
+          "source": "D(1,84,641,227,642,227,655,84,655)",
+          "span": {
+            "offset": 2163,
+            "length": 36
+          }
+        },
+        {
+          "content": "On November 2, 2006, the Company entered into an amended and restated seven-year $500 million U.S. senior secured credit facility and a CS15 million senior secured Canadian credit facility with GE Antares Capital (\"GE Antares\") and a syndicate of other lenders (combined, the \"Credit Facility\"). The Credit Facility provides for a cash receipts lock-box arrangement that gives the Company sole control over the funds in lock-box accounts, unless excess availability is less than $10 million or an event of default occurs, in which case the senior secured lenders would have the right to take control over such funds and to apply such funds to repayment of the senior debt.",
+          "source": "D(1,62,662,540,663,540,756,61,754)",
+          "span": {
+            "offset": 2201,
+            "length": 672
+          }
+        },
+        {
+          "role": "pageNumber",
+          "content": "52",
+          "source": "D(1,293,787,307,787,307,799,293,799)",
+          "span": {
+            "offset": 2875,
+            "length": 23
+          }
+        }
+      ],
+      "sections": [
+        {
+          "span": {
+            "offset": 0,
+            "length": 2873
+          },
+          "elements": [
+            "/paragraphs/0",
+            "/sections/1",
+            "/sections/2",
+            "/sections/3",
+            "/sections/4"
+          ]
+        },
+        {
+          "span": {
+            "offset": 177,
+            "length": 489
+          },
+          "elements": [
+            "/paragraphs/1",
+            "/paragraphs/2",
+            "/tables/0"
+          ]
+        },
+        {
+          "span": {
+            "offset": 669,
+            "length": 819
+          },
+          "elements": [
+            "/paragraphs/16",
+            "/paragraphs/17",
+            "/tables/1",
+            "/paragraphs/39"
+          ]
+        },
+        {
+          "span": {
+            "offset": 1491,
+            "length": 638
+          },
+          "elements": [
+            "/paragraphs/40",
+            "/paragraphs/41",
+            "/tables/2"
+          ]
+        },
+        {
+          "span": {
+            "offset": 2132,
+            "length": 741
+          },
+          "elements": [
+            "/paragraphs/58",
+            "/sections/5"
+          ]
+        },
+        {
+          "span": {
+            "offset": 2163,
+            "length": 710
+          },
+          "elements": [
+            "/paragraphs/59",
+            "/paragraphs/60"
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "rowCount": 5,
+          "columnCount": 3,
+          "cells": [
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "",
+              "source": "D(1,77,183,402,185,402,204,77,202)",
+              "span": {
+                "offset": 334,
+                "length": 0
+              }
+            },
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "September 30, 2010",
+              "source": "D(1,402,185,463,185,463,205,402,204)",
+              "span": {
+                "offset": 344,
+                "length": 18
+              },
+              "elements": [
+                "/paragraphs/3"
+              ]
+            },
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "September 30. 2009",
+              "source": "D(1,463,185,526,185,525,205,463,205)",
+              "span": {
+                "offset": 372,
+                "length": 18
+              },
+              "elements": [
+                "/paragraphs/4"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 1,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Vendor rebates",
+              "source": "D(1,77,202,402,204,402,219,76,215)",
+              "span": {
+                "offset": 411,
+                "length": 14
+              },
+              "elements": [
+                "/paragraphs/5"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 1,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$34.538",
+              "source": "D(1,402,204,463,205,463,219,402,219)",
+              "span": {
+                "offset": 435,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/6"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 1,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$38,857",
+              "source": "D(1,463,205,525,205,525,220,463,219)",
+              "span": {
+                "offset": 452,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/7"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 2,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Refundable income taxes",
+              "source": "D(1,76,215,402,219,402,232,76,229)",
+              "span": {
+                "offset": 480,
+                "length": 23
+              },
+              "elements": [
+                "/paragraphs/8"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 2,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "3,846",
+              "source": "D(1,402,219,463,219,463,233,402,232)",
+              "span": {
+                "offset": 513,
+                "length": 5
+              },
+              "elements": [
+                "/paragraphs/9"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 2,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "3,545",
+              "source": "D(1,463,219,525,220,525,233,463,233)",
+              "span": {
+                "offset": 528,
+                "length": 5
+              },
+              "elements": [
+                "/paragraphs/10"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 3,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Other.",
+              "source": "D(1,76,229,402,232,402,246,76,243)",
+              "span": {
+                "offset": 554,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/11"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 3,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "4,731",
+              "source": "D(1,402,232,463,233,463,246,402,246)",
+              "span": {
+                "offset": 570,
+                "length": 5
+              },
+              "elements": [
+                "/paragraphs/12"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 3,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "10,312",
+              "source": "D(1,463,233,525,233,525,246,463,246)",
+              "span": {
+                "offset": 585,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/13"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 4,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "",
+              "source": "D(1,76,243,402,246,402,262,76,261)",
+              "span": {
+                "offset": 612,
+                "length": 0
+              }
+            },
+            {
+              "kind": "content",
+              "rowIndex": 4,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$43,115",
+              "source": "D(1,402,246,463,246,463,262,402,262)",
+              "span": {
+                "offset": 622,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/14"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 4,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$52,714",
+              "source": "D(1,463,246,525,246,525,262,463,262)",
+              "span": {
+                "offset": 639,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/15"
+              ]
+            }
+          ],
+          "source": "D(1,85,181,527,186,527,264,84,257)",
+          "span": {
+            "offset": 317,
+            "length": 349
+          }
+        },
+        {
+          "rowCount": 8,
+          "columnCount": 3,
+          "cells": [
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "",
+              "source": "D(1,83,311,400,313,400,334,83,331)",
+              "span": {
+                "offset": 780,
+                "length": 0
+              }
+            },
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "September 30, 2010",
+              "source": "D(1,400,313,461,313,461,334,400,334)",
+              "span": {
+                "offset": 790,
+                "length": 18
+              },
+              "elements": [
+                "/paragraphs/18"
+              ]
+            },
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "September 30. 2009",
+              "source": "D(1,461,313,524,313,524,334,461,334)",
+              "span": {
+                "offset": 818,
+                "length": 18
+              },
+              "elements": [
+                "/paragraphs/19"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 1,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Land",
+              "source": "D(1,83,331,400,334,400,348,83,345)",
+              "span": {
+                "offset": 857,
+                "length": 4
+              },
+              "elements": [
+                "/paragraphs/20"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 1,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "S 3,056",
+              "source": "D(1,400,334,461,334,461,348,400,348)",
+              "span": {
+                "offset": 871,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/21"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 1,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$ 3,190",
+              "source": "D(1,461,334,524,334,524,349,461,348)",
+              "span": {
+                "offset": 888,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/22"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 2,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Buildings and leasehold improvements",
+              "source": "D(1,83,345,400,348,400,362,83,359)",
+              "span": {
+                "offset": 916,
+                "length": 36
+              },
+              "elements": [
+                "/paragraphs/23"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 2,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "19,987",
+              "source": "D(1,400,348,461,348,461,362,400,362)",
+              "span": {
+                "offset": 962,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/24"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 2,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "18,725",
+              "source": "D(1,461,348,524,349,524,363,461,362)",
+              "span": {
+                "offset": 978,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/25"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 3,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Equipment",
+              "source": "D(1,83,359,400,362,400,375,83,372)",
+              "span": {
+                "offset": 1005,
+                "length": 9
+              },
+              "elements": [
+                "/paragraphs/26"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 3,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "107.548",
+              "source": "D(1,400,362,461,362,461,376,400,375)",
+              "span": {
+                "offset": 1024,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/27"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 3,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "100,731",
+              "source": "D(1,461,362,524,363,524,377,461,376)",
+              "span": {
+                "offset": 1041,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/28"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 4,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Furniture and fixtures",
+              "source": "D(1,83,372,400,375,400,389,83,388)",
+              "span": {
+                "offset": 1069,
+                "length": 22
+              },
+              "elements": [
+                "/paragraphs/29"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 4,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "10.936",
+              "source": "D(1,400,375,461,376,461,389,400,389)",
+              "span": {
+                "offset": 1101,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/30"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 4,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "10,478",
+              "source": "D(1,461,376,524,377,524,389,461,389)",
+              "span": {
+                "offset": 1117,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/31"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 5,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "",
+              "source": "D(1,83,388,400,389,400,403,83,401)",
+              "span": {
+                "offset": 1144,
+                "length": 0
+              }
+            },
+            {
+              "kind": "content",
+              "rowIndex": 5,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "141,527",
+              "source": "D(1,400,389,461,389,461,403,400,403)",
+              "span": {
+                "offset": 1154,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/32"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 5,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "133,124",
+              "source": "D(1,461,389,524,389,524,403,461,403)",
+              "span": {
+                "offset": 1171,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/33"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 6,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Less: accumulated depreciation and amortization",
+              "source": "D(1,83,401,400,403,400,417,83,416)",
+              "span": {
+                "offset": 1199,
+                "length": 47
+              },
+              "elements": [
+                "/paragraphs/34"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 6,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "93,776",
+              "source": "D(1,400,403,461,403,461,417,400,417)",
+              "span": {
+                "offset": 1256,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/35"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 6,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "80.159",
+              "source": "D(1,461,403,524,403,524,417,461,417)",
+              "span": {
+                "offset": 1272,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/36"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 7,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "",
+              "source": "D(1,83,416,400,417,400,433,83,432)",
+              "span": {
+                "offset": 1299,
+                "length": 0
+              }
+            },
+            {
+              "kind": "content",
+              "rowIndex": 7,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$ 47,751",
+              "source": "D(1,400,417,461,417,461,433,400,433)",
+              "span": {
+                "offset": 1309,
+                "length": 8
+              },
+              "elements": [
+                "/paragraphs/37"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 7,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$ 52,965",
+              "source": "D(1,461,417,524,417,524,433,461,433)",
+              "span": {
+                "offset": 1327,
+                "length": 8
+              },
+              "elements": [
+                "/paragraphs/38"
+              ]
+            }
+          ],
+          "source": "D(1,81,312,523,312,524,434,81,435)",
+          "span": {
+            "offset": 763,
+            "length": 592
+          }
+        },
+        {
+          "rowCount": 6,
+          "columnCount": 4,
+          "cells": [
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 2,
+              "content": "",
+              "source": "D(1,66,517,397,519,397,539,65,536)",
+              "span": {
+                "offset": 1610,
+                "length": 16
+              },
+              "elements": [
+                "/figures/0"
+              ]
+            },
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "September 30, 2010",
+              "source": "D(1,397,519,458,520,458,539,397,539)",
+              "span": {
+                "offset": 1636,
+                "length": 18
+              },
+              "elements": [
+                "/paragraphs/42"
+              ]
+            },
+            {
+              "kind": "columnHeader",
+              "rowIndex": 0,
+              "columnIndex": 3,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "September 30, 2009",
+              "source": "D(1,458,520,520,520,520,540,458,539)",
+              "span": {
+                "offset": 1664,
+                "length": 18
+              },
+              "elements": [
+                "/paragraphs/43"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 1,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 2,
+              "content": "Uninvoiced inventory receipts",
+              "source": "D(1,65,536,397,539,397,554,65,551)",
+              "span": {
+                "offset": 1715,
+                "length": 29
+              },
+              "elements": [
+                "/paragraphs/44"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 1,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$ 7,739",
+              "source": "D(1,397,539,458,539,458,554,397,554)",
+              "span": {
+                "offset": 1754,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/45"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 1,
+              "columnIndex": 3,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$19,970",
+              "source": "D(1,458,539,520,540,520,555,458,554)",
+              "span": {
+                "offset": 1771,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/46"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 2,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 2,
+              "content": "Employee-related accruals.",
+              "source": "D(1,65,551,397,554,396,567,65,564)",
+              "span": {
+                "offset": 1811,
+                "length": 26
+              },
+              "elements": [
+                "/paragraphs/47"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 2,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "13,498",
+              "source": "D(1,397,554,458,554,458,567,396,567)",
+              "span": {
+                "offset": 1847,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/48"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 2,
+              "columnIndex": 3,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "18,736",
+              "source": "D(1,458,554,520,555,520,568,458,567)",
+              "span": {
+                "offset": 1863,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/49"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 3,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "",
+              "source": "D(1,65,564,81,564,81,578,65,578)",
+              "span": {
+                "offset": 1890,
+                "length": 0
+              }
+            },
+            {
+              "kind": "content",
+              "rowIndex": 3,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Unrealized loss on financial derivatives.",
+              "source": "D(1,81,564,396,567,396,581,81,578)",
+              "span": {
+                "offset": 1900,
+                "length": 41
+              },
+              "elements": [
+                "/paragraphs/50"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 3,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "11,084",
+              "source": "D(1,396,567,458,567,458,581,396,581)",
+              "span": {
+                "offset": 1951,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/51"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 3,
+              "columnIndex": 3,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "12,348",
+              "source": "D(1,458,567,520,568,520,581,458,581)",
+              "span": {
+                "offset": 1967,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/52"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 4,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "",
+              "source": "D(1,65,578,81,578,81,593,65,593)",
+              "span": {
+                "offset": 1994,
+                "length": 0
+              }
+            },
+            {
+              "kind": "content",
+              "rowIndex": 4,
+              "columnIndex": 1,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "Other.",
+              "source": "D(1,81,578,396,581,396,595,81,593)",
+              "span": {
+                "offset": 2004,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/53"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 4,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "17.811",
+              "source": "D(1,396,581,458,581,458,596,396,595)",
+              "span": {
+                "offset": 2020,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/54"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 4,
+              "columnIndex": 3,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "24,482",
+              "source": "D(1,458,581,520,581,520,596,458,596)",
+              "span": {
+                "offset": 2036,
+                "length": 6
+              },
+              "elements": [
+                "/paragraphs/55"
+              ]
+            },
+            {
+              "kind": "rowHeader",
+              "rowIndex": 5,
+              "columnIndex": 0,
+              "rowSpan": 1,
+              "columnSpan": 2,
+              "content": "",
+              "source": "D(1,65,593,396,595,396,610,65,609)",
+              "span": {
+                "offset": 2075,
+                "length": 0
+              }
+            },
+            {
+              "kind": "content",
+              "rowIndex": 5,
+              "columnIndex": 2,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$50,132",
+              "source": "D(1,396,595,458,596,458,610,396,610)",
+              "span": {
+                "offset": 2085,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/56"
+              ]
+            },
+            {
+              "kind": "content",
+              "rowIndex": 5,
+              "columnIndex": 3,
+              "rowSpan": 1,
+              "columnSpan": 1,
+              "content": "$75,536",
+              "source": "D(1,458,596,520,596,520,611,458,610)",
+              "span": {
+                "offset": 2102,
+                "length": 7
+              },
+              "elements": [
+                "/paragraphs/57"
+              ]
+            }
+          ],
+          "source": "D(1,80,516,522,519,520,613,79,610)",
+          "span": {
+            "offset": 1581,
+            "length": 548
+          }
+        }
+      ],
+      "figures": [
+        {
+          "source": "D(1,61,518,79,517,79,535,62,535)",
+          "span": {
+            "offset": 1610,
+            "length": 16
+          },
+          "id": "1.1"
+        }
+      ],
+      "metadata": {
+        "contentType": "image/png"
+      },
+      "analyzerId": "prebuilt-layout",
+      "mimeType": "image/png"
+    }
+  ]
+}

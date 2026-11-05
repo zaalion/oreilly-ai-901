@@ -16,6 +16,7 @@ def main():
         # Get Configuration Settings
         load_dotenv()
         endpoint=os.getenv("MODEL_ENDPOINT")
+        # gpt-4o-mini-tts is available in East US 2.
         model_deployment=os.getenv("MODEL_NAME")
         speech_file_path = Path(__file__).parent / "speech.mp3"
 

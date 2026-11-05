@@ -5,12 +5,12 @@ from azure.identity import DefaultAzureCredential, get_bearer_token_provider
 # also see https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/02-generate-image.html
 
 endpoint = "https://ai901-foundry-eastus2.services.ai.azure.com/openai/v1"
-deployment_name = "gpt-image-2"
+deployment_name = "MAI-Image-2.5"
 token_provider = get_bearer_token_provider(DefaultAzureCredential(), "https://ai.azure.com/.default")
 
 client = OpenAI(
     base_url=endpoint,
-    api_key=token_provider
+    api_key=token_provider()
 )
 
 img = client.images.generate(
@@ -18,6 +18,7 @@ img = client.images.generate(
     prompt="A cute baby cat",
     n=1,
     size="1024x1024",
+    response_format="b64_json"
 )
 
 image_bytes = base64.b64decode(img.data[0].b64_json)

@@ -1,36 +1,29 @@
 # Before running the sample:
-#    pip install azure-ai-projects>=2.1.0
+#    pip install "azure-ai-projects>=2.1.0"
 
 from azure.identity import DefaultAzureCredential
 from azure.ai.projects import AIProjectClient
 
-endpoint = "https://ai900-foundry-try.services.ai.azure.com/api/projects/proj-default"
+endpoint = "https://ai901-ordemo-foundry.services.ai.azure.com/api/projects/proj-default"
+agent_name = "blue-agent-sgtqv5dbtj"
+user_message = "What toppings you have?"
 
-project_client = AIProjectClient(
-    endpoint=endpoint,
-    credential=DefaultAzureCredential(),
-)
+with (
+    DefaultAzureCredential() as credential,
+    AIProjectClient(
+        endpoint=endpoint,
+        credential=credential,
+        allow_preview=True,
+    ) as project_client,
+):
+    # Bind the OpenAI client to the existing agent endpoint.
+    openai_client = project_client.get_openai_client(agent_name=agent_name)
 
-my_agent = "ai901-ordemo-agent01"
-my_version = "2"
+    # GitHub Copilot preview agents require a conversation for every Responses turn.
+    conversation = openai_client.conversations.create()
+    response = openai_client.responses.create(
+        conversation=conversation.id,
+        input=[{"role": "user", "content": user_message}],
+    )
 
-openai_client = project_client.get_openai_client()
-
-previous_response_id = None
-
-while True:
-    user_input = input("You: ")
-    if user_input.strip().upper() == "EXIT":
-        break
-
-    request_kwargs = {
-        "input": [{"role": "user", "content": user_input}],
-        "extra_body": {"agent_reference": {"name": my_agent, "version": my_version, "type": "agent_reference"}},
-    }
-    if previous_response_id:
-        request_kwargs["previous_response_id"] = previous_response_id
-
-    response = openai_client.responses.create(**request_kwargs)
-
-    previous_response_id = response.id
-    print(f"Agent: {response.output_text}")
+    print(f"Response output: {response.output_text}")
